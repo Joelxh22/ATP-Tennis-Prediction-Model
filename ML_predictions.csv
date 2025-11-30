@@ -1,0 +1,601 @@
+p1_rank,p2_rank,rank_diff,age_diff,p1_hand_code,p2_hand_code,ht_diff,hard_diff,clay_diff,grass_diff,surface_Hard,surface_Clay,surface_Grass,Actual_Winner_Is_P1,Predicted_Winner_Is_P1,Correct_Prediction,p1_name,p2_name,Predicted_Winner_Name,Actual_Winner_Name
+102,42,-60,2.8,0,1,-5,-0.245614116,-9.37E-08,-0.39999992,FALSE,TRUE,FALSE,0,0,TRUE,Jozef Kovalik,Cameron Norrie,Cameron Norrie,Cameron Norrie
+5,70,65,-1,0,0,10,0.338050318,0.42946709,0.083333295,FALSE,TRUE,FALSE,1,1,TRUE,Alexander Zverev,Aleksandar Vukic,Alexander Zverev,Alexander Zverev
+66,91,25,3.1,0,0,13,0.200336696,0.233333321,-0.071428508,FALSE,FALSE,TRUE,0,1,FALSE,Arthur Rinderknech,Aleksandar Kovacevic,Arthur Rinderknech,Aleksandar Kovacevic
+9,122,113,5.6,0,0,13,0.117647068,0.777777735,0.38095239,TRUE,FALSE,FALSE,1,1,TRUE,Hubert Hurkacz,Arthur Cazaux,Hubert Hurkacz,Hubert Hurkacz
+92,211,119,-13.9,0,0,-15,0.038461546,0,0.333333222,TRUE,FALSE,FALSE,1,0,FALSE,Arthur Cazaux,Marin Cilic,Marin Cilic,Arthur Cazaux
+29,63,34,-2,0,0,0,0.063795861,0.145454536,0.300000072,FALSE,TRUE,FALSE,0,1,FALSE,Lorenzo Musetti,Thiago Seyboth Wild,Lorenzo Musetti,Thiago Seyboth Wild
+48,109,61,3.9,0,0,0,0.266666649,0.06324113,0,FALSE,TRUE,FALSE,1,1,TRUE,Pedro Martinez,Thiago Agustin Tirante,Pedro Martinez,Pedro Martinez
+227,23,-204,6.2,0,0,0,-0.594594579,-0.499999975,-0.666666593,TRUE,FALSE,FALSE,0,0,TRUE,Brandon Holt,Arthur Fils,Arthur Fils,Arthur Fils
+54,58,4,-7,1,0,5,0.136363653,-0.041407868,0.777777691,FALSE,TRUE,FALSE,0,0,TRUE,Alejandro Tabilo,Dusan Lajovic,Dusan Lajovic,Dusan Lajovic
+217,13,-204,12.1,0,0,-2,-0.273279364,-0.380952358,-0.333333514,TRUE,FALSE,FALSE,0,0,TRUE,Stan Wawrinka,Tommy Paul,Tommy Paul,Tommy Paul
+16,39,23,0.3,0,0,13,0.055417695,-0.10000001,0.366666708,TRUE,FALSE,FALSE,0,1,FALSE,Sebastian Korda,Tomas Machac,Sebastian Korda,Tomas Machac
+58,1,-57,-9.4,0,0,5,-0.370689631,-0.226973678,-0.357142797,TRUE,FALSE,FALSE,0,0,TRUE,Zhizhen Zhang,Novak Djokovic,Novak Djokovic,Novak Djokovic
+123,1,-122,-16.2,0,0,-3,-0.464285718,-0.589473683,-0.607142797,TRUE,FALSE,FALSE,1,0,FALSE,Luca Nardi,Novak Djokovic,Novak Djokovic,Luca Nardi
+17,151,134,-13.2,0,0,10,0.680851049,0.075630296,0.59999988,FALSE,TRUE,FALSE,1,1,TRUE,Holger Rune,Marco Trungelliti,Holger Rune,Holger Rune
+1,5,4,-3.8,0,0,-5,0.280701754,0.103896079,0.066666646,TRUE,FALSE,FALSE,1,1,TRUE,Jannik Sinner,Taylor Fritz,Jannik Sinner,Jannik Sinner
+12,10,-2,0.4,0,0,10,0.009090905,0.004464282,1.25E-07,FALSE,TRUE,FALSE,1,0,FALSE,Stefanos Tsitsipas,Casper Ruud,Casper Ruud,Stefanos Tsitsipas
+35,74,39,5.1,0,0,0,-0.086206893,0.092307726,-0.333333278,FALSE,TRUE,FALSE,1,1,TRUE,Felix Auger Aliassime,Jakub Mensik,Felix Auger Aliassime,Felix Auger Aliassime
+116,24,-92,-6.3,0,0,10,0.086206892,0.224999987,0.333333278,TRUE,FALSE,FALSE,1,1,TRUE,Jakub Mensik,Alejandro Davidovich Fokina,Jakub Mensik,Jakub Mensik
+50,59,9,-5.3,1,0,-13,0.067783094,-0.134615418,0.39999992,TRUE,FALSE,FALSE,0,1,FALSE,Juncheng Shang,Fabian Marozsan,Juncheng Shang,Fabian Marozsan
+139,46,-93,3.2,0,0,-8,-0.093596087,-0.362500005,-0.499999938,TRUE,FALSE,FALSE,1,0,FALSE,Aslan Karatsev,Zhizhen Zhang,Zhizhen Zhang,Aslan Karatsev
+10,18,8,-2.2,0,1,8,0.087719313,0.181818182,0.433333344,TRUE,FALSE,FALSE,1,1,TRUE,Taylor Fritz,Cameron Norrie,Taylor Fritz,Taylor Fritz
+207,136,-71,12,1,0,0,-0.142857133,-0.031250058,-0.39999992,FALSE,TRUE,FALSE,0,0,TRUE,Facundo Bagnis,Luciano Darderi,Luciano Darderi,Luciano Darderi
+4,17,13,0.3,0,0,0,0.023255813,0.020833346,0.499999969,FALSE,TRUE,FALSE,0,1,FALSE,Daniil Medvedev,Karen Khachanov,Daniil Medvedev,Karen Khachanov
+7,26,19,0.9,0,0,8,0.036251705,0.277777785,0.214285696,TRUE,FALSE,FALSE,0,1,FALSE,Hubert Hurkacz,Frances Tiafoe,Hubert Hurkacz,Frances Tiafoe
+59,79,20,-1.7,0,1,5,0.13541668,-0.100000002,0.333333222,FALSE,TRUE,FALSE,0,0,TRUE,Alexander Shevchenko,Corentin Moutet,Corentin Moutet,Corentin Moutet
+53,122,69,7.4,0,1,5,0.363636331,0.065217617,0,FALSE,TRUE,FALSE,0,1,FALSE,Dusan Lajovic,Alex Molcan,Dusan Lajovic,Alex Molcan
+99,71,-28,-2.2,0,1,3,0.166666444,-0.499999975,0.333333222,TRUE,FALSE,FALSE,1,1,TRUE,Jacob Fearnley,Corentin Moutet,Jacob Fearnley,Jacob Fearnley
+92,67,-25,3,0,0,3,-0.127777785,0.4583333,0.59999988,FALSE,TRUE,FALSE,1,1,TRUE,Fabio Fognini,Daniel Evans,Fabio Fognini,Fabio Fognini
+22,74,52,-1.3,0,0,2,0.282467532,0.182864451,-0.333333222,FALSE,TRUE,FALSE,0,1,FALSE,Francisco Cerundolo,Jaume Munar,Francisco Cerundolo,Jaume Munar
+78,81,3,4.9,0,0,3,0.135338365,0.066666689,0.249999813,FALSE,TRUE,FALSE,0,1,FALSE,Daniel Altmaier,Luca Nardi,Daniel Altmaier,Luca Nardi
+5,106,101,-0.9,0,0,13,0.354717047,0.254641924,0.749999906,FALSE,TRUE,FALSE,0,1,FALSE,Alexander Zverev,Cristian Garin,Alexander Zverev,Cristian Garin
+38,41,3,-6.4,0,0,0,-0.011993999,-0.187499998,-0.166666655,FALSE,FALSE,TRUE,0,0,TRUE,Zhizhen Zhang,Jan Lennard Struff,Jan Lennard Struff,Jan Lennard Struff
+57,45,-12,-0.2,0,0,-3,-0.171401509,0.051282049,-0.299999957,TRUE,FALSE,FALSE,1,0,FALSE,Fabian Marozsan,Alexei Popyrin,Alexei Popyrin,Fabian Marozsan
+101,109,8,6.4,0,0,0,-0.041666731,0,0.10000019,TRUE,FALSE,FALSE,1,1,TRUE,Billy Harris,Otto Virtanen,Billy Harris,Billy Harris
+136,26,-110,-1.2,0,0,13,-0.120300748,-0.046452704,0.39999992,FALSE,TRUE,FALSE,1,0,FALSE,Luciano Darderi,Sebastian Baez,Sebastian Baez,Luciano Darderi
+18,38,20,3.7,0,0,11,-0.029325513,-0.07486632,0.166666715,TRUE,FALSE,FALSE,0,1,FALSE,Alexander Bublik,Matteo Arnaldi,Alexander Bublik,Matteo Arnaldi
+230,69,-161,-5.7,1,0,-5,0.178947331,-0.454545434,-0.499999875,TRUE,FALSE,FALSE,1,1,TRUE,Learner Tien,Thiago Seyboth Wild,Learner Tien,Learner Tien
+60,15,-45,3,1,0,-5,-0.157894751,-0.31428569,-0.333333389,TRUE,FALSE,FALSE,0,0,TRUE,Dominik Koepfer,Tommy Paul,Tommy Paul,Tommy Paul
+79,29,-50,2.5,0,0,-13,-0.461538444,-0.40000002,-0.249999938,FALSE,TRUE,FALSE,0,0,TRUE,Bernabe Zapata Miralles,Tomas Martin Etcheverry,Tomas Martin Etcheverry,Tomas Martin Etcheverry
+74,93,19,0.9,0,0,-10,-0.194444452,-0.363636331,-0.166666694,FALSE,TRUE,FALSE,0,0,TRUE,Mackenzie Mcdonald,Aleksandar Vukic,Aleksandar Vukic,Aleksandar Vukic
+25,71,46,10.9,0,0,15,-0.108695648,0.583333324,0.291666639,TRUE,FALSE,FALSE,1,1,TRUE,Jan Lennard Struff,Rinky Hijikata,Jan Lennard Struff,Jan Lennard Struff
+5,108,103,-3.8,0,1,5,0.294117746,0.647058785,0,TRUE,FALSE,FALSE,1,1,TRUE,Andrey Rublev,Liam Broady,Andrey Rublev,Andrey Rublev
+79,75,-4,8.4,0,0,0,-0.077777788,-1.85E-08,-2.00E-07,TRUE,FALSE,FALSE,0,0,TRUE,Thanasi Kokkinakis,Alex Michelsen,Alex Michelsen,Alex Michelsen
+2,12,10,-12,0,0,-8,0.044653344,0.14285716,0.222222235,TRUE,FALSE,FALSE,0,1,FALSE,Carlos Alcaraz,Grigor Dimitrov,Carlos Alcaraz,Grigor Dimitrov
+46,27,-19,5.1,0,0,-5,0.035714286,-0.317647071,0.692307639,FALSE,FALSE,TRUE,1,1,TRUE,Marcos Giron,Francisco Cerundolo,Marcos Giron,Marcos Giron
+122,40,-82,-1.7,0,0,-10,-0.02986858,0.166666654,-0.04761902,FALSE,FALSE,TRUE,0,1,FALSE,Roberto Bautista Agut,Gael Monfils,Roberto Bautista Agut,Gael Monfils
+43,64,21,2.6,0,0,10,-0.120689653,0.187500012,0.499999938,TRUE,FALSE,FALSE,0,0,TRUE,Zhizhen Zhang,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina
+14,56,42,7.3,0,0,3,0.318077809,0.399999962,0.166666806,TRUE,FALSE,FALSE,1,1,TRUE,Grigor Dimitrov,Daniel Altmaier,Grigor Dimitrov,Grigor Dimitrov
+77,336,259,-7.9,1,0,-5,0.399999973,0.538461497,0,TRUE,FALSE,FALSE,1,1,TRUE,Hugo Gaston,Alexey Vatutin,Hugo Gaston,Hugo Gaston
+80,247,167,3.9,0,0,13,0.421052609,0.266666649,0.49999975,FALSE,FALSE,TRUE,1,1,TRUE,Daniel Altmaier,Arthur Fery,Daniel Altmaier,Daniel Altmaier
+86,17,-69,8.1,0,0,-15,-0.132644276,-0.166666661,0.416666655,FALSE,TRUE,FALSE,0,0,TRUE,Roberto Bautista Agut,Karen Khachanov,Karen Khachanov,Karen Khachanov
+32,17,-15,4.2,0,1,-5,-0.04398382,-0.041666679,0.015872996,TRUE,FALSE,FALSE,1,1,TRUE,Jordan Thompson,Ugo Humbert,Jordan Thompson,Jordan Thompson
+97,12,-85,-2.9,1,0,-23,-0.266666677,-0.143356654,-0.833333264,TRUE,FALSE,FALSE,0,0,TRUE,Hugo Gaston,Taylor Fritz,Taylor Fritz,Taylor Fritz
+6,201,195,-6.3,0,0,0,0.056022437,0.647058785,0,TRUE,FALSE,FALSE,1,1,TRUE,Andrey Rublev,Pablo Carreno Busta,Andrey Rublev,Andrey Rublev
+161,74,-87,-5.1,0,0,-5,0.249999938,0.17948708,0,TRUE,FALSE,FALSE,1,1,TRUE,Jesper De Jong,Pedro Cachin,Jesper De Jong,Jesper De Jong
+238,17,-221,-9.8,0,1,8,0.26126105,0,-0.166666639,TRUE,FALSE,FALSE,0,1,FALSE,Tung Lin Wu,Adrian Mannarino,Tung Lin Wu,Adrian Mannarino
+98,56,-42,13.6,0,0,-8,0.034615373,-0.216666667,0.49999975,FALSE,TRUE,FALSE,0,0,TRUE,Stan Wawrinka,Pavel Kotov,Pavel Kotov,Pavel Kotov
+28,124,96,5.6,0,1,3,-0.05263158,0.125000016,-0.59999988,TRUE,FALSE,FALSE,1,0,FALSE,Alejandro Davidovich Fokina,Juncheng Shang,Juncheng Shang,Alejandro Davidovich Fokina
+9,60,51,4.2,0,0,-5,0.220611919,0.266666651,0.238095188,TRUE,FALSE,FALSE,1,1,TRUE,Grigor Dimitrov,Arthur Rinderknech,Grigor Dimitrov,Grigor Dimitrov
+49,87,38,11.2,0,0,-13,-0.183333333,-0.374999966,-0.636363579,FALSE,TRUE,FALSE,0,0,TRUE,Daniel Evans,Brandon Nakashima,Brandon Nakashima,Brandon Nakashima
+139,33,-106,-10.8,1,0,-3,-0.077803204,-0.125000016,0.02857139,TRUE,FALSE,FALSE,1,0,FALSE,Juncheng Shang,Jordan Thompson,Jordan Thompson,Juncheng Shang
+161,80,-81,0.2,1,0,0,-0.142857133,-0.322916757,-0.39999992,FALSE,TRUE,FALSE,0,0,TRUE,Juan Manuel Cerundolo,Luciano Darderi,Luciano Darderi,Luciano Darderi
+62,241,179,-3,0,0,0,0.114942624,0.647058785,-0.666666444,FALSE,TRUE,FALSE,1,1,TRUE,Nuno Borges,Lucas Pouille,Nuno Borges,Nuno Borges
+76,37,-39,-5.5,0,0,-5,0.185503688,0.26984128,-0.071428383,TRUE,FALSE,FALSE,0,1,FALSE,Flavio Cobolli,Borna Coric,Flavio Cobolli,Borna Coric
+31,1,-30,-14.5,0,0,-3,-0.168604627,0.010526197,-0.857142735,TRUE,FALSE,FALSE,0,0,TRUE,Jiri Lehecka,Novak Djokovic,Novak Djokovic,Novak Djokovic
+57,27,-30,-1.8,0,0,-13,-0.050566691,0.055555575,-0.271428563,FALSE,TRUE,FALSE,0,0,TRUE,Flavio Cobolli,Sebastian Korda,Sebastian Korda,Sebastian Korda
+94,20,-74,3.4,0,0,8,-0.152046782,-0.339066353,0,FALSE,TRUE,FALSE,0,0,TRUE,Sumit Nagal,Sebastian Baez,Sebastian Baez,Sebastian Baez
+53,65,12,2.7,0,0,-16,-0.078947355,-0.637499971,0.025641046,FALSE,FALSE,TRUE,1,0,FALSE,Marcos Giron,Matteo Berrettini,Matteo Berrettini,Marcos Giron
+88,104,16,5.9,0,1,8,0.047368406,-0.049999978,0,FALSE,FALSE,TRUE,0,0,TRUE,Emil Ruusuvuori,Juncheng Shang,Juncheng Shang,Juncheng Shang
+113,56,-57,-9.3,0,0,-15,-0.369230747,0.122377621,-0.249999938,FALSE,TRUE,FALSE,1,1,TRUE,Mariano Navone,Yannick Hanfmann,Mariano Navone,Mariano Navone
+5,41,36,-5.8,0,0,5,0.283114258,-0.062500005,0.083333314,FALSE,FALSE,TRUE,1,1,TRUE,Daniil Medvedev,Jan Lennard Struff,Daniil Medvedev,Daniil Medvedev
+25,51,26,6.1,0,0,3,0.070043103,-0.266666634,0.166666639,TRUE,FALSE,FALSE,0,1,FALSE,Alexei Popyrin,Jakub Mensik,Alexei Popyrin,Jakub Mensik
+91,78,-13,7.2,0,1,3,-0.192513373,0.128787871,-0.59999988,TRUE,FALSE,FALSE,0,0,TRUE,Marton Fucsovics,Denis Shapovalov,Denis Shapovalov,Denis Shapovalov
+14,139,125,-3.4,1,1,8,0.079545458,0.212121198,-0.099999943,TRUE,FALSE,FALSE,1,1,TRUE,Ben Shelton,Denis Shapovalov,Ben Shelton,Ben Shelton
+31,278,247,6,0,0,8,0.516129016,0.454545413,0.499999938,TRUE,FALSE,FALSE,1,1,TRUE,Alexander Bublik,James Mccabe,Alexander Bublik,Alexander Bublik
+284,151,-133,-4.4,0,0,3,-0.499999917,0,0.49999975,TRUE,FALSE,FALSE,0,0,TRUE,Ethan Quinn,Patrick Kypson,Patrick Kypson,Patrick Kypson
+121,531,410,3.6,0,0,-18,-0.428571367,0.49999975,0,TRUE,FALSE,FALSE,0,0,TRUE,Chun Hsin Tseng,Yi Zhou,Yi Zhou,Yi Zhou
+78,31,-47,2.6,1,0,0,-0.035940806,-0.345454427,0.59999988,TRUE,FALSE,FALSE,1,0,FALSE,Denis Shapovalov,Jiri Lehecka,Jiri Lehecka,Denis Shapovalov
+20,61,41,2.8,0,0,3,0.11264535,0.099999977,0.166666694,TRUE,FALSE,FALSE,1,1,TRUE,Frances Tiafoe,Alexander Shevchenko,Frances Tiafoe,Frances Tiafoe
+440,17,-423,-7.1,0,0,5,-0.152823968,-0.49999995,-0.499999917,TRUE,FALSE,FALSE,0,0,TRUE,Yi Zhou,Frances Tiafoe,Frances Tiafoe,Frances Tiafoe
+66,98,32,-7.3,0,0,5,-0.219047613,0.066666642,0.499999938,TRUE,FALSE,FALSE,1,0,FALSE,Max Purcell,David Goffin,David Goffin,Max Purcell
+217,254,37,6.9,0,0,-3,0,0,-0.49999975,FALSE,FALSE,TRUE,0,0,TRUE,Marc Polmans,Ethan Quinn,Ethan Quinn,Ethan Quinn
+58,84,26,-4.5,0,0,-6,0.135416708,0.087499993,0.333333222,TRUE,FALSE,FALSE,1,1,TRUE,Alexander Shevchenko,Daniel Elahi Galan,Alexander Shevchenko,Alexander Shevchenko
+210,53,-157,8.6,1,0,-5,-0.033333566,-0.49999995,-0.136363704,FALSE,FALSE,TRUE,1,0,FALSE,Alex Bolt,Brandon Nakashima,Brandon Nakashima,Alex Bolt
+19,116,97,-5.2,0,1,5,0.250000004,0.358974369,0,FALSE,TRUE,FALSE,1,1,TRUE,Felix Auger Aliassime,Maximilian Marterer,Felix Auger Aliassime,Felix Auger Aliassime
+12,90,78,3.2,0,1,13,0.541666666,0.056818177,0.833333264,TRUE,FALSE,FALSE,1,1,TRUE,Taylor Fritz,Facundo Diaz Acosta,Taylor Fritz,Taylor Fritz
+101,106,5,-6.3,1,0,-18,0.166666736,0,-0.59999994,TRUE,FALSE,FALSE,1,1,TRUE,Mattia Bellucci,Billy Harris,Mattia Bellucci,Mattia Bellucci
+63,1,-62,-5.9,0,0,-5,-0.295454529,-0.251012125,-0.523809512,FALSE,TRUE,FALSE,0,0,TRUE,Roberto Carballes Baena,Novak Djokovic,Novak Djokovic,Novak Djokovic
+9,91,82,-2.7,0,0,-5,0.174242428,0.417613645,-0.166666861,TRUE,FALSE,FALSE,0,1,FALSE,Casper Ruud,Aleksandar Vukic,Casper Ruud,Aleksandar Vukic
+125,131,6,-1.7,0,0,3,-0.065217492,0.095238071,0,TRUE,FALSE,FALSE,0,0,TRUE,Duje Ajdukovic,Zizou Bergs,Zizou Bergs,Zizou Bergs
+44,16,-28,8.4,0,1,-10,0.005434782,-0.291666658,0.071428552,TRUE,FALSE,FALSE,0,0,TRUE,Jordan Thompson,Ben Shelton,Ben Shelton,Ben Shelton
+75,85,10,4.5,0,0,-2,-0.215384605,-0.454545434,0.083333285,FALSE,TRUE,FALSE,0,0,TRUE,Andy Murray,Yannick Hanfmann,Yannick Hanfmann,Yannick Hanfmann
+61,37,-24,13.6,0,0,-2,-0.062876836,-0.29999989,0.666666593,TRUE,FALSE,FALSE,0,1,FALSE,Roberto Bautista Agut,Jiri Lehecka,Roberto Bautista Agut,Jiri Lehecka
+56,82,26,-8.7,0,0,-2,0.308880334,0.355555565,0.428571367,FALSE,TRUE,FALSE,1,1,TRUE,Flavio Cobolli,Aslan Karatsev,Flavio Cobolli,Flavio Cobolli
+35,56,21,-1.2,0,0,-2,-0.325892853,0.256250006,0.066666698,FALSE,TRUE,FALSE,1,1,TRUE,Luciano Darderi,Alexander Shevchenko,Luciano Darderi,Luciano Darderi
+80,116,36,-3.8,0,0,21,0.333333278,0.31249998,0,FALSE,TRUE,FALSE,1,1,TRUE,Daniel Elahi Galan,Diego Schwartzman,Daniel Elahi Galan,Daniel Elahi Galan
+34,14,-20,7.6,0,0,13,-0.2641844,-0.147058813,-0.59999988,TRUE,FALSE,FALSE,0,0,TRUE,Nicolas Jarry,Holger Rune,Holger Rune,Holger Rune
+1,14,13,-4.2,0,0,6,0.289473685,0.071428566,0.066666646,TRUE,FALSE,FALSE,1,1,TRUE,Jannik Sinner,Tommy Paul,Jannik Sinner,Jannik Sinner
+343,9,-334,-0.3,1,0,-13,-0.617647041,-0.777777735,-0.714285612,TRUE,FALSE,FALSE,0,0,TRUE,Omar Jasika,Hubert Hurkacz,Hubert Hurkacz,Hubert Hurkacz
+12,80,68,-11.2,0,0,15,0.377777785,0.202380973,-0.100000005,FALSE,TRUE,FALSE,1,1,TRUE,Stefanos Tsitsipas,Fabio Fognini,Stefanos Tsitsipas,Stefanos Tsitsipas
+186,94,-92,5.9,0,0,-13,-0.066666667,-0.238636346,-0.666666611,TRUE,FALSE,FALSE,0,0,TRUE,Daniel Evans,Aleksandar Vukic,Aleksandar Vukic,Aleksandar Vukic
+10,12,2,1.3,0,0,13,-1.06E-09,0.015151529,0.033333344,TRUE,FALSE,FALSE,0,1,FALSE,Taylor Fritz,Alex De Minaur,Taylor Fritz,Alex De Minaur
+57,27,-30,4.7,0,0,5,0.074999973,-0.012121202,-0.321428552,TRUE,FALSE,FALSE,0,0,TRUE,Yannick Hanfmann,Tallon Griekspoor,Tallon Griekspoor,Tallon Griekspoor
+225,38,-187,0,0,0,3,-0.379310332,-0.562499965,-0.499999938,FALSE,FALSE,TRUE,0,0,TRUE,Maxime Janvier,Zhizhen Zhang,Zhizhen Zhang,Zhizhen Zhang
+68,79,11,3.9,0,0,5,-0.318181814,0.268115951,-0.041666731,FALSE,TRUE,FALSE,1,1,TRUE,Jaume Munar,Rinky Hijikata,Jaume Munar,Jaume Munar
+115,92,-23,0.5,0,0,0,-0.033333441,-0.071428583,-0.636363579,FALSE,TRUE,FALSE,0,0,TRUE,Duje Ajdukovic,Brandon Nakashima,Brandon Nakashima,Brandon Nakashima
+77,18,-59,6.6,1,0,13,0.111842072,-0.114467424,0,FALSE,TRUE,FALSE,0,0,TRUE,Thiago Monteiro,Sebastian Baez,Sebastian Baez,Sebastian Baez
+281,75,-206,13.1,0,0,-5,-0.577777765,-0.333333296,-0.49999995,TRUE,FALSE,FALSE,0,0,TRUE,Tennys Sandgren,Alex Michelsen,Alex Michelsen,Alex Michelsen
+48,71,23,-6.4,0,0,2,-0.03125,0.399999973,0.333333222,TRUE,FALSE,FALSE,0,1,FALSE,Alexander Shevchenko,Christopher Oconnell,Alexander Shevchenko,Christopher Oconnell
+539,46,-493,-12.7,1,0,13,-0.499999983,-0.29999997,-0.692307639,FALSE,FALSE,TRUE,0,0,TRUE,Henry Searle,Marcos Giron,Marcos Giron,Marcos Giron
+236,224,-12,4.5,0,0,-11,0.166666694,0,0,TRUE,FALSE,FALSE,1,1,TRUE,Khumoun Sultanov,Mark Lajal,Khumoun Sultanov,Khumoun Sultanov
+54,79,25,1.5,0,0,5,-0.075757568,0.294871787,0.124999984,TRUE,FALSE,FALSE,0,1,FALSE,Miomir Kecmanovic,Rinky Hijikata,Miomir Kecmanovic,Rinky Hijikata
+439,182,-257,6.9,0,0,18,0.083333285,0,0,TRUE,FALSE,FALSE,1,1,TRUE,Borna Gojo,Vilius Gaubas,Borna Gojo,Borna Gojo
+11,576,565,-8.7,0,0,15,0.061538486,0.452381035,0.499999875,TRUE,FALSE,FALSE,0,1,FALSE,Stefanos Tsitsipas,Kei Nishikori,Stefanos Tsitsipas,Kei Nishikori
+100,79,-21,2.5,0,0,5,-0.181818175,0,0.124999922,TRUE,FALSE,FALSE,1,0,FALSE,Aleksandar Kovacevic,Rinky Hijikata,Rinky Hijikata,Aleksandar Kovacevic
+30,46,16,-12.9,0,0,3,0.1078629,9.26E-09,-0.214285696,TRUE,FALSE,FALSE,0,1,FALSE,Alexei Popyrin,Gael Monfils,Alexei Popyrin,Gael Monfils
+14,8,-6,12,0,0,3,0.058279369,0.019607826,0.066666676,TRUE,FALSE,FALSE,1,1,TRUE,Grigor Dimitrov,Holger Rune,Grigor Dimitrov,Grigor Dimitrov
+365,95,-270,4,0,1,8,0.374999766,-0.624999974,0,FALSE,TRUE,FALSE,0,0,TRUE,Federico Agustin Gomez,Facundo Diaz Acosta,Facundo Diaz Acosta,Facundo Diaz Acosta
+78,45,-33,-4.8,0,0,-13,1.49E-08,-0.149122818,-0.124999984,FALSE,TRUE,FALSE,0,0,TRUE,Rinky Hijikata,Sebastian Ofner,Sebastian Ofner,Sebastian Ofner
+175,21,-154,-1.1,0,0,-23,-0.222591408,-0.666666611,-0.249999938,TRUE,FALSE,FALSE,1,0,FALSE,Seong Chan Hong,Karen Khachanov,Karen Khachanov,Seong Chan Hong
+183,366,183,2.4,0,1,8,0,-0.250000062,0,FALSE,TRUE,FALSE,0,0,TRUE,Murkel Alejandro Dellien Velasco,Franco Roncadelli,Franco Roncadelli,Franco Roncadelli
+28,3,-25,2.8,0,0,13,-0.138622493,-0.309523821,-0.18888886,FALSE,TRUE,FALSE,0,0,TRUE,Sebastian Korda,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+64,2,-62,10.1,0,0,0,-0.329238329,-0.271062253,-0.555555568,TRUE,FALSE,FALSE,0,0,TRUE,Roberto Carballes Baena,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+161,43,-118,0.6,0,0,-21,-0.656249979,0.166666444,-0.499999917,FALSE,TRUE,FALSE,1,0,FALSE,Ugo Blanchet,Alexei Popyrin,Alexei Popyrin,Ugo Blanchet
+112,20,-92,4.8,0,0,-2,-0.099999997,-0.237762252,0.333333222,FALSE,TRUE,FALSE,0,0,TRUE,Botic Van De Zandschulp,Felix Auger Aliassime,Felix Auger Aliassime,Felix Auger Aliassime
+299,433,134,10.3,0,1,15,0.571428531,0,0,TRUE,FALSE,FALSE,1,1,TRUE,Pablo Carreno Busta,Omni Kumar,Pablo Carreno Busta,Pablo Carreno Busta
+2,161,159,-1,0,1,3,0.250000087,0.164473682,0.857142735,FALSE,TRUE,FALSE,1,1,TRUE,Novak Djokovic,Rafael Nadal,Novak Djokovic,Novak Djokovic
+60,67,7,-4.9,0,0,-10,-0.185897436,0.213286724,-0.666666611,FALSE,TRUE,FALSE,1,1,TRUE,Mariano Navone,Aleksandar Vukic,Mariano Navone,Mariano Navone
+40,21,-19,2.3,0,0,6,0.035714267,-0.301857584,0.499999938,TRUE,FALSE,FALSE,0,1,FALSE,Sebastian Ofner,Francisco Cerundolo,Sebastian Ofner,Francisco Cerundolo
+93,7,-86,5.7,0,0,-10,-0.569739951,-0.283422455,-0.59999988,FALSE,TRUE,FALSE,0,0,TRUE,Sumit Nagal,Holger Rune,Holger Rune,Holger Rune
+13,34,21,3.4,0,0,2,0.068151145,0.114285703,0.500000042,TRUE,FALSE,FALSE,0,1,FALSE,Tommy Paul,Tomas Machac,Tommy Paul,Tomas Machac
+13,62,49,-13,0,0,13,0.330851067,0.522058801,0.59999988,FALSE,TRUE,FALSE,1,1,TRUE,Holger Rune,Daniel Evans,Holger Rune,Holger Rune
+1187,25,-1162,-9.2,0,1,31,-0.041769064,0,0.583333174,FALSE,FALSE,TRUE,1,1,TRUE,Reilly Opelka,Adrian Mannarino,Reilly Opelka,Reilly Opelka
+223,90,-133,-8,0,0,-16,-0.347826072,0.549999871,0,FALSE,TRUE,FALSE,1,1,TRUE,Timofey Skatov,Taro Daniel,Timofey Skatov,Timofey Skatov
+25,33,8,6.6,0,0,5,-0.01778656,0.464285718,0.166666843,FALSE,TRUE,FALSE,1,1,TRUE,Jan Lennard Struff,Borna Coric,Jan Lennard Struff,Jan Lennard Struff
+57,7,-50,2.5,0,0,-3,-0.212101064,-0.247058812,-0.266666658,TRUE,FALSE,FALSE,1,0,FALSE,Alexander Shevchenko,Holger Rune,Holger Rune,Alexander Shevchenko
+42,140,98,9.8,0,1,-2,-0.330409367,-0.249999938,-0.099999963,TRUE,FALSE,FALSE,0,0,TRUE,Mackenzie Mcdonald,Juncheng Shang,Juncheng Shang,Juncheng Shang
+28,57,29,-9.1,0,0,-3,0.133056152,0.166666669,0.666666593,FALSE,TRUE,FALSE,1,1,TRUE,Arthur Fils,Laslo Djere,Arthur Fils,Arthur Fils
+35,6,-29,-1.6,0,0,10,-0.090909094,-0.08894231,-0.49999975,FALSE,TRUE,FALSE,1,0,FALSE,Felix Auger Aliassime,Casper Ruud,Casper Ruud,Felix Auger Aliassime
+39,141,102,2.9,0,0,-3,0.133333396,0.49999995,0.636363579,TRUE,FALSE,FALSE,1,1,TRUE,Brandon Nakashima,Coleman Wong,Brandon Nakashima,Brandon Nakashima
+118,31,-87,-3.1,0,0,18,0.107142833,-0.617647041,0,TRUE,FALSE,FALSE,1,1,TRUE,Gabriel Diallo,Francisco Cerundolo,Gabriel Diallo,Gabriel Diallo
+48,66,18,5.7,0,0,-8,-0.099999987,0.10000001,0.092307759,FALSE,TRUE,FALSE,0,1,FALSE,Marcos Giron,Emil Ruusuvuori,Marcos Giron,Emil Ruusuvuori
+51,359,308,-6.8,0,0,25,0.499999969,0.833333194,0.57142849,TRUE,FALSE,FALSE,1,1,TRUE,Giovanni Mpetshi Perricard,Fajing Sun,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard
+1,4,3,-5.5,0,0,-7,0.272949815,0.098214273,0.150000004,TRUE,FALSE,FALSE,1,1,TRUE,Jannik Sinner,Daniil Medvedev,Jannik Sinner,Jannik Sinner
+77,95,18,2.2,0,0,0,0.317460309,0.499999964,-1.25E-07,TRUE,FALSE,FALSE,1,1,TRUE,Alexandre Muller,Adam Walton,Alexandre Muller,Alexandre Muller
+39,7,-32,5.8,0,0,-3,-0.236406621,-0.347058815,-0.19999996,TRUE,FALSE,FALSE,0,0,TRUE,Roman Safiullin,Holger Rune,Holger Rune,Holger Rune
+87,72,-15,0.7,0,0,10,0.297979792,-0.077922086,0.49999975,TRUE,FALSE,FALSE,1,1,TRUE,Borna Coric,Sumit Nagal,Borna Coric,Borna Coric
+200,14,-186,13.3,0,0,-10,-0.142389552,-0.313725563,-0.59999988,TRUE,FALSE,FALSE,0,0,TRUE,Kei Nishikori,Holger Rune,Holger Rune,Holger Rune
+5,19,14,4.5,0,0,5,0.174418606,-0.004807709,0.749999906,FALSE,TRUE,FALSE,0,1,FALSE,Daniil Medvedev,Felix Auger Aliassime,Daniil Medvedev,Felix Auger Aliassime
+71,133,62,0.9,0,0,-5,-0.071428509,-0.16666648,0.49999975,TRUE,FALSE,FALSE,0,0,TRUE,Alexandre Muller,Michael Mmoh,Michael Mmoh,Michael Mmoh
+64,146,82,5.8,0,1,21,0.018518541,0.39999996,0.428571367,TRUE,FALSE,FALSE,1,1,TRUE,Arthur Rinderknech,Mattia Bellucci,Arthur Rinderknech,Arthur Rinderknech
+86,318,232,6,0,0,-13,-0.333333167,0,0,TRUE,FALSE,FALSE,0,0,TRUE,Damir Dzumhur,Tung Lin Wu,Tung Lin Wu,Tung Lin Wu
+40,19,-21,-0.1,0,0,15,0.282296648,-0.17329095,0.333333222,FALSE,TRUE,FALSE,1,0,FALSE,Matteo Arnaldi,Sebastian Baez,Sebastian Baez,Matteo Arnaldi
+511,86,-425,-0.9,0,0,2,-0.499999985,0,0,TRUE,FALSE,FALSE,0,0,TRUE,Strong Kirchheimer,Christopher Oconnell,Christopher Oconnell,Christopher Oconnell
+50,28,-22,3.9,0,0,0,-0.120689652,-0.129807701,0.499999938,TRUE,FALSE,FALSE,1,0,FALSE,Zhizhen Zhang,Felix Auger Aliassime,Felix Auger Aliassime,Zhizhen Zhang
+138,101,-37,7.6,0,0,0,0.19999996,-0.345454536,0,FALSE,TRUE,FALSE,0,0,TRUE,Dominic Thiem,Thiago Agustin Tirante,Thiago Agustin Tirante,Thiago Agustin Tirante
+163,697,534,-0.3,0,0,13,0.09523812,0.166666694,0,TRUE,FALSE,FALSE,1,1,TRUE,Lukas Klein,Soon Woo Kwon,Lukas Klein,Lukas Klein
+77,153,76,6.1,0,0,-10,-0.116071417,-1.67E-07,0.499999917,TRUE,FALSE,FALSE,0,0,TRUE,James Duckworth,Lukas Klein,Lukas Klein,Lukas Klein
+29,35,6,3.1,0,0,3,0.035940806,-0.029411784,0.166666694,FALSE,FALSE,TRUE,1,1,TRUE,Frances Tiafoe,Matteo Arnaldi,Frances Tiafoe,Frances Tiafoe
+61,81,20,1.3,0,1,12,0.165217393,-0.205128201,0,TRUE,FALSE,FALSE,1,1,TRUE,Zizou Bergs,Hugo Gaston,Zizou Bergs,Zizou Bergs
+47,2,-45,-12.2,0,0,8,-0.093749983,-0.456140337,-0.357142818,FALSE,FALSE,TRUE,0,0,TRUE,Alexei Popyrin,Novak Djokovic,Novak Djokovic,Novak Djokovic
+91,50,-41,-4.4,1,0,-23,-0.178947365,-0.399038444,-0.666666593,FALSE,TRUE,FALSE,0,0,TRUE,Hugo Gaston,Matteo Berrettini,Matteo Berrettini,Matteo Berrettini
+2,140,138,1.7,0,1,3,0.231152198,0.559523833,0.28888891,TRUE,FALSE,FALSE,1,1,TRUE,Carlos Alcaraz,Juncheng Shang,Carlos Alcaraz,Carlos Alcaraz
+57,6,-51,-1.4,0,0,-10,-0.333664357,-0.526436772,-0.250000156,TRUE,FALSE,FALSE,1,0,FALSE,Daniel Altmaier,Alexander Zverev,Alexander Zverev,Daniel Altmaier
+4,34,30,-0.5,0,0,5,0.375406635,0.230603456,0.249999969,FALSE,TRUE,FALSE,1,1,TRUE,Alexander Zverev,Zhizhen Zhang,Alexander Zverev,Alexander Zverev
+107,3,-104,4.4,0,0,0,-0.64092664,-0.559523833,-0.88888879,FALSE,TRUE,FALSE,0,0,TRUE,J J Wolf,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+25,43,18,6,0,0,2,-0.108695633,0.434210505,0.166666655,TRUE,FALSE,FALSE,0,1,FALSE,Jan Lennard Struff,Sebastian Ofner,Jan Lennard Struff,Sebastian Ofner
+19,50,31,3,0,0,-10,1.46E-08,-0.141025529,-0.57142849,TRUE,FALSE,FALSE,0,0,TRUE,Felix Auger Aliassime,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard
+12,108,96,3,0,0,18,0.166666776,0.681818151,0.166666819,TRUE,FALSE,FALSE,1,1,TRUE,Taylor Fritz,Francisco Comesana,Taylor Fritz,Taylor Fritz
+36,655,619,2.2,0,0,0,-0.280405312,2.50E-08,0.666666593,FALSE,TRUE,FALSE,0,0,TRUE,Arthur Fils,Joao Fonseca,Joao Fonseca,Joao Fonseca
+486,224,-262,7.1,0,0,18,0.071428383,0,0,TRUE,FALSE,FALSE,1,0,FALSE,Vasek Pospisil,Seong Chan Hong,Seong Chan Hong,Vasek Pospisil
+201,20,-181,15.7,0,0,13,-0.133056152,-0.499999975,-0.666666593,TRUE,FALSE,FALSE,0,0,TRUE,Marin Cilic,Arthur Fils,Arthur Fils,Arthur Fils
+9,49,40,5.2,0,0,13,0.023052462,0.22222221,0.285714245,FALSE,FALSE,TRUE,1,1,TRUE,Hubert Hurkacz,Flavio Cobolli,Hubert Hurkacz,Hubert Hurkacz
+29,100,71,-12.2,0,0,13,0.12664277,0,0.033333337,TRUE,FALSE,FALSE,1,1,TRUE,Sebastian Korda,Roberto Bautista Agut,Sebastian Korda,Sebastian Korda
+66,9,-57,-1.5,1,0,-8,-0.294117663,-0.14705881,0,TRUE,FALSE,FALSE,1,0,FALSE,Corentin Moutet,Andrey Rublev,Andrey Rublev,Corentin Moutet
+52,25,-27,3.8,1,0,-8,-0.081395367,-0.099999977,-4.17E-08,FALSE,TRUE,FALSE,1,0,FALSE,Dominik Koepfer,Frances Tiafoe,Frances Tiafoe,Dominik Koepfer
+49,1,-48,-3,0,0,2,-0.369590639,-0.452380933,-0.39999996,TRUE,FALSE,FALSE,0,0,TRUE,Alex Michelsen,Jannik Sinner,Jannik Sinner,Jannik Sinner
+60,130,70,2.2,0,0,3,-0.149999893,0.121428605,0,FALSE,TRUE,FALSE,0,1,FALSE,Pavel Kotov,Duje Ajdukovic,Pavel Kotov,Duje Ajdukovic
+19,56,37,-3.9,0,0,8,-0.183333311,0.045454538,-0.249999938,FALSE,TRUE,FALSE,0,0,TRUE,Nicolas Jarry,Yannick Hanfmann,Yannick Hanfmann,Yannick Hanfmann
+118,105,-13,-12.9,0,0,10,0.043956043,0.166666611,-0.49999975,FALSE,TRUE,FALSE,1,1,TRUE,Lukas Klein,Stan Wawrinka,Lukas Klein,Lukas Klein
+50,116,66,18.3,0,0,-2,-0.201591521,-0.59999994,-5.56E-08,TRUE,FALSE,FALSE,0,0,TRUE,Andy Murray,Jakub Mensik,Jakub Mensik,Jakub Mensik
+11,29,18,0,0,0,8,0.135714285,0.168067217,0.499999875,TRUE,FALSE,FALSE,1,1,TRUE,Stefanos Tsitsipas,Francisco Cerundolo,Stefanos Tsitsipas,Stefanos Tsitsipas
+86,29,-57,2.3,1,0,-18,-0.061395356,-0.124999997,0.099999963,TRUE,FALSE,FALSE,1,0,FALSE,Yoshihito Nishioka,Frances Tiafoe,Frances Tiafoe,Yoshihito Nishioka
+80,35,-45,0.5,0,0,-5,-0.178947351,-0.482954528,-0.33333337,TRUE,FALSE,FALSE,0,0,TRUE,Botic Van De Zandschulp,Matteo Berrettini,Matteo Berrettini,Matteo Berrettini
+65,75,10,-13.1,0,0,0,-0.063538609,0.051282059,-0.514285652,TRUE,FALSE,FALSE,1,0,FALSE,Fabian Marozsan,Gael Monfils,Gael Monfils,Fabian Marozsan
+99,24,-75,7,0,0,-3,-0.227272736,-0.374999953,0,TRUE,FALSE,FALSE,0,0,TRUE,Constant Lestienne,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina
+66,55,-11,8.4,0,1,-13,-0.166666666,-0.116666662,-0.107692281,TRUE,FALSE,FALSE,0,0,TRUE,Marcos Giron,Jack Draper,Jack Draper,Jack Draper
+252,19,-233,-0.5,0,0,0,0.265151342,-0.59999997,-0.799999947,TRUE,FALSE,FALSE,0,1,FALSE,Alibek Kachmazov,Lorenzo Musetti,Alibek Kachmazov,Lorenzo Musetti
+197,9,-188,8.1,0,0,13,-0.166666735,-0.666666622,-0.20000004,FALSE,FALSE,TRUE,0,0,TRUE,Milos Raonic,Alex De Minaur,Alex De Minaur,Alex De Minaur
+52,1,-51,2,0,0,-8,-0.523125993,-0.324175804,-0.399999973,FALSE,FALSE,TRUE,0,0,TRUE,Miomir Kecmanovic,Jannik Sinner,Jannik Sinner,Jannik Sinner
+12,56,44,0.5,0,0,-2,0.139130459,0.212121177,0.416666618,TRUE,FALSE,FALSE,1,1,TRUE,Grigor Dimitrov,Yannick Hanfmann,Grigor Dimitrov,Grigor Dimitrov
+41,276,235,9.2,1,0,3,-0.374999907,0.023809549,0.777777691,FALSE,TRUE,FALSE,1,0,FALSE,Alejandro Tabilo,Joao Fonseca,Joao Fonseca,Alejandro Tabilo
+170,110,-60,1.2,0,0,-18,-0.466666636,0.499999917,-0.444444395,FALSE,TRUE,FALSE,1,1,TRUE,Benjamin Hassan,Christopher Eubanks,Benjamin Hassan,Benjamin Hassan
+97,80,-17,3.8,0,0,-5,0.165577344,-0.083333335,0.666666593,TRUE,FALSE,FALSE,0,1,FALSE,Roberto Bautista Agut,Marton Fucsovics,Roberto Bautista Agut,Marton Fucsovics
+320,223,-97,-7.3,0,1,-11,-0.333333278,-0.499999875,0,FALSE,TRUE,FALSE,0,0,TRUE,Marko Topo,Marc Andrea Huesler,Marc Andrea Huesler,Marc Andrea Huesler
+95,78,-17,0.8,0,0,13,0.305555533,0.436363509,0.666666444,TRUE,FALSE,FALSE,1,1,TRUE,Quentin Halys,Sumit Nagal,Quentin Halys,Quentin Halys
+94,128,34,1.8,0,0,-5,0.518518499,0.39999996,-0.071428383,TRUE,FALSE,FALSE,1,1,TRUE,Arthur Rinderknech,Maxime Cressy,Arthur Rinderknech,Arthur Rinderknech
+47,191,144,2.8,0,0,-3,0.499999983,0.29999997,0.692307639,TRUE,FALSE,FALSE,1,1,TRUE,Marcos Giron,Li Tu,Marcos Giron,Marcos Giron
+188,288,100,10.2,0,0,11,-0.874999891,-2.00E-07,0,FALSE,TRUE,FALSE,1,0,FALSE,Jan Choinski,Joao Fonseca,Joao Fonseca,Jan Choinski
+5,4,-1,3.8,0,0,-3,-0.319917436,-0.138655444,-0.89999991,TRUE,FALSE,FALSE,0,0,TRUE,Andrey Rublev,Jannik Sinner,Jannik Sinner,Jannik Sinner
+70,142,72,-3.7,0,0,18,0.416666649,0.363636331,0.666666611,FALSE,TRUE,FALSE,1,1,TRUE,Aleksandar Vukic,Diego Schwartzman,Aleksandar Vukic,Aleksandar Vukic
+45,70,25,-6.8,0,1,5,0.04545456,0.12941176,-0.166666653,FALSE,TRUE,FALSE,0,1,FALSE,Matteo Arnaldi,Dominik Koepfer,Matteo Arnaldi,Dominik Koepfer
+41,10,-31,-2.1,0,0,2,-0.121212123,-0.137254889,-0.466666698,TRUE,FALSE,FALSE,0,0,TRUE,Matteo Arnaldi,Alex De Minaur,Alex De Minaur,Alex De Minaur
+29,7,-22,-0.8,0,0,-3,-0.16316527,-0.029411745,0,TRUE,FALSE,FALSE,1,0,FALSE,Francisco Cerundolo,Andrey Rublev,Andrey Rublev,Francisco Cerundolo
+124,173,49,0.9,0,0,-10,0.333333278,0.31249998,-0.49999975,TRUE,FALSE,FALSE,1,1,TRUE,Daniel Elahi Galan,Maxime Cressy,Daniel Elahi Galan,Daniel Elahi Galan
+142,1,-141,-3.9,0,0,0,-0.250000212,-0.789473643,-0.857142735,FALSE,TRUE,FALSE,0,0,TRUE,Pierre Hugues Herbert,Novak Djokovic,Novak Djokovic,Novak Djokovic
+90,38,-52,11.2,0,0,-3,0.457142843,-0.322916702,-0.39999992,TRUE,FALSE,FALSE,1,1,TRUE,David Goffin,Luciano Darderi,David Goffin,David Goffin
+76,63,-13,1.8,0,0,-8,0.078571426,-0.050000008,0.49999975,TRUE,FALSE,FALSE,0,1,FALSE,Alexandre Muller,Pavel Kotov,Alexandre Muller,Pavel Kotov
+16,62,46,0.1,0,0,3,0.200442973,0.10000003,-2.08E-08,TRUE,FALSE,FALSE,1,1,TRUE,Frances Tiafoe,Max Purcell,Frances Tiafoe,Frances Tiafoe
+36,89,53,-2.5,0,0,-10,-0.190283396,0.310256406,-0.49999975,TRUE,FALSE,FALSE,1,0,FALSE,Mariano Navone,Daniel Altmaier,Daniel Altmaier,Mariano Navone
+57,1,-56,-3,0,0,2,-0.369590639,-0.452380933,-0.39999996,TRUE,FALSE,FALSE,0,0,TRUE,Alex Michelsen,Jannik Sinner,Jannik Sinner,Jannik Sinner
+13,112,99,-9.1,0,0,2,0.13937622,0.214285713,0.166666671,FALSE,FALSE,TRUE,1,1,TRUE,Tommy Paul,Roberto Bautista Agut,Tommy Paul,Tommy Paul
+27,43,16,-0.2,0,0,-13,0.058333351,0.466666636,0.126984095,FALSE,TRUE,FALSE,1,1,TRUE,Tallon Griekspoor,Christopher Eubanks,Tallon Griekspoor,Tallon Griekspoor
+31,13,-18,-5,0,0,-2,-0.063300141,-0.158730139,-0.404761897,TRUE,FALSE,FALSE,1,0,FALSE,Flavio Cobolli,Tommy Paul,Tommy Paul,Flavio Cobolli
+212,35,-177,-9,0,0,3,-0.061538506,-0.333333306,0,TRUE,FALSE,FALSE,0,0,TRUE,Coleman Wong,Laslo Djere,Laslo Djere,Laslo Djere
+66,67,1,1.7,0,0,-6,0.098275864,0.097058813,0,TRUE,FALSE,FALSE,0,1,FALSE,Nuno Borges,Pavel Kotov,Nuno Borges,Pavel Kotov
+9,22,13,-8.7,0,1,16,0.212241646,0.777777735,0.547618973,TRUE,FALSE,FALSE,1,1,TRUE,Hubert Hurkacz,Adrian Mannarino,Hubert Hurkacz,Hubert Hurkacz
+1044,35,-1009,6.7,0,0,10,0,-0.333333306,0,FALSE,TRUE,FALSE,0,0,TRUE,Marin Cilic,Laslo Djere,Laslo Djere,Laslo Djere
+60,106,46,-2.5,0,0,6,-0.049999938,0.011538475,0,FALSE,TRUE,FALSE,1,1,TRUE,Pavel Kotov,Cristian Garin,Pavel Kotov,Pavel Kotov
+276,55,-221,-3.2,0,0,13,-0.454545434,-0.038461768,-0.333333222,TRUE,FALSE,FALSE,0,0,TRUE,Jan Choinski,Roberto Carballes Baena,Roberto Carballes Baena,Roberto Carballes Baena
+8,118,110,2.1,0,1,11,0.072192512,0.323232321,0.114285732,FALSE,TRUE,FALSE,1,1,TRUE,Hubert Hurkacz,Denis Shapovalov,Hubert Hurkacz,Hubert Hurkacz
+122,83,-39,4.7,0,0,-8,0.170692427,0.249999981,0.666666593,FALSE,FALSE,TRUE,1,1,TRUE,Roberto Bautista Agut,Taro Daniel,Roberto Bautista Agut,Roberto Bautista Agut
+204,14,-190,-6.4,1,0,18,0.008771725,-0.714285663,-0.833333264,TRUE,FALSE,FALSE,1,0,FALSE,Martin Damm,Tommy Paul,Tommy Paul,Martin Damm
+1410,604,-806,7.1,0,0,-6,-0.999999,0,0,TRUE,FALSE,FALSE,0,0,TRUE,Petros Chrysochos,Yassine Dlimi,Yassine Dlimi,Yassine Dlimi
+243,156,-87,-0.1,0,0,-13,-0.374999953,0.333333222,-0.49999975,FALSE,TRUE,FALSE,1,1,TRUE,Filip Misolic,Otto Virtanen,Filip Misolic,Filip Misolic
+17,46,29,3.2,0,0,2,-0.005087204,0.333333306,-0.249999979,TRUE,FALSE,FALSE,1,1,TRUE,Karen Khachanov,Alexei Popyrin,Karen Khachanov,Karen Khachanov
+44,32,-12,12.2,0,0,-5,-0.076923089,-0.59999998,0.083333285,TRUE,FALSE,FALSE,0,0,TRUE,Andy Murray,Tomas Martin Etcheverry,Tomas Martin Etcheverry,Tomas Martin Etcheverry
+81,38,-43,9.8,0,0,3,-0.22845418,-0.216666555,0,TRUE,FALSE,FALSE,0,0,TRUE,Marton Fucsovics,Jiri Lehecka,Jiri Lehecka,Jiri Lehecka
+89,280,191,1.1,0,1,0,0.399999987,0.454545413,0.333333222,FALSE,TRUE,FALSE,1,1,TRUE,Botic Van De Zandschulp,Ivan Gakhov,Botic Van De Zandschulp,Botic Van De Zandschulp
+18,32,14,6.1,0,0,16,-0.164728686,-0.299999868,0,TRUE,FALSE,FALSE,0,0,TRUE,Nicolas Jarry,Jiri Lehecka,Jiri Lehecka,Jiri Lehecka
+37,197,160,-3.3,0,0,-13,0.130434852,0.374999953,-0.02857139,FALSE,FALSE,TRUE,0,1,FALSE,Jordan Thompson,Milos Raonic,Jordan Thompson,Milos Raonic
+148,53,-95,-0.3,0,0,-3,-0.333333356,-0.49999995,-0.636363579,FALSE,FALSE,TRUE,0,0,TRUE,Emilio Nava,Brandon Nakashima,Brandon Nakashima,Brandon Nakashima
+869,84,-785,-7,0,0,-8,-0.421052609,-0.266666649,-0.49999975,TRUE,FALSE,FALSE,0,0,TRUE,Gilles Arnaud Bailly,Daniel Altmaier,Daniel Altmaier,Daniel Altmaier
+2,60,58,-3.7,0,0,0,0.359541351,0.347985345,0.388888853,TRUE,FALSE,FALSE,1,1,TRUE,Carlos Alcaraz,Miomir Kecmanovic,Carlos Alcaraz,Carlos Alcaraz
+140,22,-118,-3.5,1,0,-21,-0.083333344,2.78E-09,0,FALSE,TRUE,FALSE,1,0,FALSE,Corentin Moutet,Nicolas Jarry,Nicolas Jarry,Corentin Moutet
+182,83,-99,-4.3,0,0,3,0.49999995,-0.421052609,0,FALSE,TRUE,FALSE,0,0,TRUE,Benjamin Bonzi,Federico Coria,Federico Coria,Federico Coria
+146,58,-88,-7.7,1,1,13,-0.33333333,0.099999902,-0.499999875,TRUE,FALSE,FALSE,0,0,TRUE,Terence Atmane,Dominik Koepfer,Dominik Koepfer,Dominik Koepfer
+142,82,-60,-0.2,0,0,-5,-0.24561406,-0.624999961,-0.666666593,FALSE,TRUE,FALSE,0,0,TRUE,Daniel Elahi Galan,Matteo Berrettini,Matteo Berrettini,Matteo Berrettini
+58,56,-2,-9.1,0,1,5,0.039039034,0.29999997,0.233333281,TRUE,FALSE,FALSE,0,1,FALSE,Roman Safiullin,Adrian Mannarino,Roman Safiullin,Adrian Mannarino
+33,98,65,4.4,0,0,0,0.312252965,0.208333314,0.071428615,FALSE,TRUE,FALSE,1,1,TRUE,Jordan Thompson,Aleksandar Kovacevic,Jordan Thompson,Jordan Thompson
+26,46,20,-14.3,0,0,-23,-0.285229198,0.369369387,-0.714285612,TRUE,FALSE,FALSE,0,0,TRUE,Sebastian Baez,Gael Monfils,Gael Monfils,Gael Monfils
+73,128,55,-6.4,0,0,0,0.149206367,-0.16666662,0.49999995,TRUE,FALSE,FALSE,1,1,TRUE,Alex Michelsen,Lukas Klein,Alex Michelsen,Alex Michelsen
+1,21,20,-4.2,0,1,3,0.447368421,0.261904731,0.122222219,TRUE,FALSE,FALSE,1,1,TRUE,Jannik Sinner,Alejandro Tabilo,Jannik Sinner,Jannik Sinner
+71,91,20,2,0,1,15,0.021052636,-0.271794848,0.49999975,FALSE,TRUE,FALSE,0,0,TRUE,Daniel Altmaier,Hugo Gaston,Hugo Gaston,Hugo Gaston
+82,48,-34,3.5,0,0,-2,-0.28693182,0.034782616,0,TRUE,FALSE,FALSE,1,0,FALSE,Jaume Munar,Alexander Shevchenko,Alexander Shevchenko,Jaume Munar
+8,32,24,4.8,0,0,11,0.036251705,-0.022222105,0.714285612,TRUE,FALSE,FALSE,1,1,TRUE,Hubert Hurkacz,Jiri Lehecka,Hubert Hurkacz,Hubert Hurkacz
+30,8,-22,3,1,0,-5,-0.021052645,-0.285714289,-0.099999955,FALSE,TRUE,FALSE,0,0,TRUE,Cameron Norrie,Stefanos Tsitsipas,Stefanos Tsitsipas,Stefanos Tsitsipas
+40,74,34,10.4,0,0,-10,0.052657004,0.041666657,0.07142854,TRUE,FALSE,FALSE,1,0,FALSE,Jordan Thompson,Alex Michelsen,Alex Michelsen,Jordan Thompson
+63,68,5,-3.4,0,0,-8,0.244594596,0.005555552,0.428571367,FALSE,TRUE,FALSE,0,1,FALSE,Flavio Cobolli,Pavel Kotov,Flavio Cobolli,Pavel Kotov
+33,84,51,-3.1,0,0,-3,0.160342726,0.533333191,-0.49999975,TRUE,FALSE,FALSE,1,1,TRUE,Jiri Lehecka,Daniel Altmaier,Jiri Lehecka,Jiri Lehecka
+12,25,13,-6.9,0,0,0,0.155851062,0.18039215,0.02857139,FALSE,TRUE,FALSE,0,1,FALSE,Holger Rune,Tallon Griekspoor,Holger Rune,Tallon Griekspoor
+4,3,-1,6.1,0,0,15,-0.029066796,-0.01642035,-0.138888884,FALSE,TRUE,FALSE,0,0,TRUE,Alexander Zverev,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+13,70,57,0.7,0,0,3,0.386189263,0.083333326,0.666666556,TRUE,FALSE,FALSE,1,1,TRUE,Grigor Dimitrov,Marton Fucsovics,Grigor Dimitrov,Grigor Dimitrov
+6,66,60,0.7,0,0,0,0.166666666,0.31971155,-1.87E-07,FALSE,TRUE,FALSE,1,1,TRUE,Casper Ruud,Miomir Kecmanovic,Casper Ruud,Casper Ruud
+38,13,-25,2.1,0,0,-3,-0.13539652,-0.117647052,-0.266666658,TRUE,FALSE,FALSE,0,0,TRUE,Matteo Arnaldi,Holger Rune,Holger Rune,Holger Rune
+178,100,-78,8.8,0,1,-10,-0.195454546,-0.329545429,-0.59999988,TRUE,FALSE,FALSE,0,0,TRUE,Daniel Evans,Denis Shapovalov,Denis Shapovalov,Denis Shapovalov
+70,177,107,-3.3,1,0,-16,5.21E-08,0.399999973,-0.100000005,FALSE,TRUE,FALSE,1,1,TRUE,Dominik Koepfer,Milos Raonic,Dominik Koepfer,Dominik Koepfer
+2,18,16,-4.9,0,1,-5,0.109365174,0.392857139,0.333333296,TRUE,FALSE,FALSE,0,1,FALSE,Carlos Alcaraz,Ugo Humbert,Carlos Alcaraz,Ugo Humbert
+22,4,-18,0.9,0,0,0,-0.103554191,-0.12643681,-0.499999969,TRUE,FALSE,FALSE,0,0,TRUE,Karen Khachanov,Alexander Zverev,Alexander Zverev,Alexander Zverev
+77,37,-40,-3.9,1,0,2,0.321862351,-0.326923117,0.59999988,TRUE,FALSE,FALSE,1,1,TRUE,Juncheng Shang,Mariano Navone,Juncheng Shang,Juncheng Shang
+73,75,2,-2.5,0,0,7,-0.214285734,0.033333321,-0.125000016,FALSE,FALSE,TRUE,0,0,TRUE,Luca Nardi,Rinky Hijikata,Rinky Hijikata,Rinky Hijikata
+16,97,81,-2.7,1,0,-3,0.274418602,-0.037878781,0.222222272,FALSE,FALSE,TRUE,1,1,TRUE,Ugo Humbert,Botic Van De Zandschulp,Ugo Humbert,Ugo Humbert
+69,96,27,-1.6,0,1,-3,0.198275867,0.313725489,0,TRUE,FALSE,FALSE,1,1,TRUE,Nuno Borges,Maximilian Marterer,Nuno Borges,Nuno Borges
+31,118,87,-7.4,0,1,2,0.206395382,0.21176458,0,FALSE,TRUE,FALSE,1,1,TRUE,Jiri Lehecka,Thiago Monteiro,Jiri Lehecka,Jiri Lehecka
+75,19,-56,-7.3,0,1,11,-0.005405408,0.454545413,0.166666583,TRUE,FALSE,FALSE,1,1,TRUE,Botic Van De Zandschulp,Adrian Mannarino,Botic Van De Zandschulp,Botic Van De Zandschulp
+193,88,-105,-8.1,0,0,-8,-0.01449285,-0.249999969,0,TRUE,FALSE,FALSE,1,0,FALSE,Tristan Schoolkate,Taro Daniel,Taro Daniel,Tristan Schoolkate
+61,31,-30,-2.3,0,0,0,0.004464288,-0.217647067,0.333333222,TRUE,FALSE,FALSE,0,0,TRUE,Alexander Shevchenko,Francisco Cerundolo,Francisco Cerundolo,Francisco Cerundolo
+18,3,-15,-1.2,1,0,-10,-0.080298378,-0.376436789,-0.194444412,TRUE,FALSE,FALSE,0,0,TRUE,Ugo Humbert,Alexander Zverev,Alexander Zverev,Alexander Zverev
+7,2,-5,-1.7,0,0,-15,-0.163807889,-0.011853445,-0.250000156,TRUE,FALSE,FALSE,0,0,TRUE,Casper Ruud,Alexander Zverev,Alexander Zverev,Alexander Zverev
+25,65,40,4.1,0,0,10,-0.108695654,0.749999963,0.666666593,TRUE,FALSE,FALSE,0,1,FALSE,Jan Lennard Struff,Christopher Oconnell,Jan Lennard Struff,Christopher Oconnell
+58,382,324,2.6,0,0,-3,-0.649999018,0.124999984,0,FALSE,TRUE,FALSE,1,1,TRUE,Daniel Evans,Moez Echargui,Daniel Evans,Daniel Evans
+35,31,-4,1.3,0,0,8,-0.081395352,-0.107692174,0,FALSE,TRUE,FALSE,1,0,FALSE,Felix Auger Aliassime,Jiri Lehecka,Jiri Lehecka,Felix Auger Aliassime
+38,179,141,-7.9,0,0,-3,0.248062058,0.79999984,0,TRUE,FALSE,FALSE,1,1,TRUE,Jiri Lehecka,Mitchell Krueger,Jiri Lehecka,Jiri Lehecka
+66,88,22,3.2,0,0,-2,0.054545514,2.07E-08,0.333333222,FALSE,TRUE,FALSE,0,0,TRUE,Roberto Carballes Baena,Cristian Garin,Cristian Garin,Cristian Garin
+43,9,-34,-4.8,1,0,-3,0.049019609,-0.361111103,0.085714308,FALSE,TRUE,FALSE,0,0,TRUE,Jack Draper,Hubert Hurkacz,Hubert Hurkacz,Hubert Hurkacz
+13,60,47,4.3,0,0,13,0.523809518,0.025568171,0.433333344,FALSE,TRUE,FALSE,1,1,TRUE,Taylor Fritz,Luciano Darderi,Taylor Fritz,Taylor Fritz
+163,344,181,1.9,0,0,0,0.166666472,-0.333333222,0,TRUE,FALSE,FALSE,0,1,FALSE,Kamil Majchrzak,Soon Woo Kwon,Kamil Majchrzak,Soon Woo Kwon
+58,74,16,13.8,0,0,0,0.013793084,-0.145454506,-0.08333334,FALSE,TRUE,FALSE,0,0,TRUE,Yannick Hanfmann,Jakub Mensik,Jakub Mensik,Jakub Mensik
+62,45,-17,3,0,1,-5,1.96E-09,-0.523809499,-0.777777691,FALSE,TRUE,FALSE,0,0,TRUE,Christopher Oconnell,Alejandro Tabilo,Alejandro Tabilo,Alejandro Tabilo
+18,100,82,6.6,0,0,18,-0.177927929,-0.055555552,-0.428571367,TRUE,FALSE,FALSE,0,0,TRUE,Nicolas Jarry,Flavio Cobolli,Flavio Cobolli,Flavio Cobolli
+37,54,17,-5.8,0,0,-8,-0.357142832,0.340460522,-0.100000017,FALSE,FALSE,TRUE,0,0,TRUE,Luciano Darderi,Sebastian Ofner,Sebastian Ofner,Sebastian Ofner
+59,27,-32,8.9,0,0,0,-0.136363654,0.190217414,0,FALSE,TRUE,FALSE,1,1,TRUE,Dusan Lajovic,Alejandro Davidovich Fokina,Dusan Lajovic,Dusan Lajovic
+75,50,-25,-9.7,0,0,-8,0.043956053,0.499999964,0.166666528,TRUE,FALSE,FALSE,0,1,FALSE,Alexandre Muller,Andy Murray,Alexandre Muller,Andy Murray
+329,262,-67,9.1,0,0,10,0,0.49999975,0,FALSE,TRUE,FALSE,1,1,TRUE,David Jorda Sanchis,Jaime Faria,David Jorda Sanchis,David Jorda Sanchis
+38,84,46,-9.4,0,0,2,-0.074074071,-0.19999998,-0.266666673,FALSE,TRUE,FALSE,0,0,TRUE,Roman Safiullin,Roberto Bautista Agut,Roberto Bautista Agut,Roberto Bautista Agut
+58,49,-9,-1.1,0,0,-8,-0.016098485,0.015384618,0.133333262,FALSE,TRUE,FALSE,0,1,FALSE,Alexander Shevchenko,Fabian Marozsan,Alexander Shevchenko,Fabian Marozsan
+42,14,-28,4,0,0,0,-0.354515064,-0.666666611,-0.333333333,TRUE,FALSE,FALSE,0,0,TRUE,Andy Murray,Grigor Dimitrov,Grigor Dimitrov,Grigor Dimitrov
+29,199,170,0,0,1,-8,0.191666709,-0.033333239,0.57142849,TRUE,FALSE,FALSE,1,1,TRUE,Tallon Griekspoor,Marc Andrea Huesler,Tallon Griekspoor,Tallon Griekspoor
+106,38,-68,4.2,0,0,-11,-0.499999964,0.105263152,-0.499999938,FALSE,TRUE,FALSE,1,0,FALSE,Federico Coria,Sebastian Ofner,Sebastian Ofner,Federico Coria
+113,23,-90,-5.5,0,1,-10,-0.348178125,0.076923086,-0.39999992,FALSE,TRUE,FALSE,1,0,FALSE,Mariano Navone,Cameron Norrie,Cameron Norrie,Mariano Navone
+112,57,-55,-8.8,0,1,-10,-0.178947358,-0.25,-0.39999992,TRUE,FALSE,FALSE,0,0,TRUE,Luca Van Assche,Cameron Norrie,Cameron Norrie,Cameron Norrie
+148,141,-7,10.2,0,0,-5,-0.076923071,0,0.49999975,TRUE,FALSE,FALSE,0,1,FALSE,Stan Wawrinka,Laslo Djere,Stan Wawrinka,Laslo Djere
+33,56,23,3.2,1,0,-3,0.228947355,-0.050000004,0.39999992,FALSE,TRUE,FALSE,0,0,TRUE,Cameron Norrie,Pavel Kotov,Pavel Kotov,Pavel Kotov
+68,49,-19,6.8,0,0,13,-0.076076079,-0.155555565,0,FALSE,FALSE,TRUE,0,0,TRUE,Arthur Rinderknech,Flavio Cobolli,Flavio Cobolli,Flavio Cobolli
+14,54,40,-1.1,1,0,5,0.091666671,0.166666661,-0.136363641,TRUE,FALSE,FALSE,1,1,TRUE,Ben Shelton,Brandon Nakashima,Ben Shelton,Ben Shelton
+49,102,53,3.9,0,1,6,-0.145454542,-0.025974015,-0.099999963,TRUE,FALSE,FALSE,0,0,TRUE,Lorenzo Sonego,Denis Shapovalov,Denis Shapovalov,Denis Shapovalov
+64,65,1,3,0,0,-5,0.037878785,0.174825187,-0.333333389,TRUE,FALSE,FALSE,1,1,TRUE,Roberto Carballes Baena,Aleksandar Vukic,Roberto Carballes Baena,Roberto Carballes Baena
+24,18,-6,5.6,0,1,5,-0.015503874,0.249999979,-0.549999982,TRUE,FALSE,FALSE,0,0,TRUE,Karen Khachanov,Jack Draper,Jack Draper,Jack Draper
+96,118,22,4.9,0,0,-15,-0.16233764,0.285714245,0.49999975,TRUE,FALSE,FALSE,0,0,TRUE,Borna Coric,Gabriel Diallo,Gabriel Diallo,Gabriel Diallo
+58,87,29,10.5,0,1,0,0.238636346,-0.059782607,0,FALSE,TRUE,FALSE,0,0,TRUE,Dusan Lajovic,Facundo Diaz Acosta,Facundo Diaz Acosta,Facundo Diaz Acosta
+29,8,-21,0.6,0,0,-8,-0.092647054,-0.311111099,-0.142857122,TRUE,FALSE,FALSE,1,0,FALSE,Tallon Griekspoor,Hubert Hurkacz,Hubert Hurkacz,Tallon Griekspoor
+24,5,-19,1.5,0,0,3,-0.338050318,-0.293103449,-0.749999906,FALSE,TRUE,FALSE,0,0,TRUE,Nicolas Jarry,Alexander Zverev,Alexander Zverev,Alexander Zverev
+72,36,-36,6.3,0,0,11,-0.261261356,-0.499999975,-0.666666593,TRUE,FALSE,FALSE,0,0,TRUE,Borna Gojo,Arthur Fils,Arthur Fils,Arthur Fils
+12,85,73,-4.7,0,0,5,0.318840579,0.431818182,0.833333264,FALSE,FALSE,TRUE,1,1,TRUE,Taylor Fritz,Taro Daniel,Taylor Fritz,Taylor Fritz
+29,90,61,-1.8,0,0,-6,0.047619066,-0.182352799,-0.666666444,TRUE,FALSE,FALSE,1,0,FALSE,Francisco Cerundolo,Quentin Halys,Quentin Halys,Francisco Cerundolo
+80,148,68,-11.9,0,1,0,0.142857133,0.031250058,0.39999992,FALSE,TRUE,FALSE,1,1,TRUE,Luciano Darderi,Facundo Bagnis,Luciano Darderi,Luciano Darderi
+74,23,-51,1.2,0,0,-10,-0.302777789,-0.466666636,-0.071428573,FALSE,FALSE,TRUE,0,0,TRUE,Mackenzie Mcdonald,Tallon Griekspoor,Tallon Griekspoor,Tallon Griekspoor
+51,62,11,7.5,0,0,-8,-0.129501918,0.313725489,-0.49999995,FALSE,FALSE,TRUE,0,0,TRUE,Nuno Borges,Alex Michelsen,Alex Michelsen,Alex Michelsen
+796,65,-731,1.7,0,0,5,0.116883097,-0.538461518,-0.333333222,FALSE,FALSE,TRUE,0,0,TRUE,Pablo Carreno Busta,Roberto Carballes Baena,Roberto Carballes Baena,Roberto Carballes Baena
+43,67,24,-4.7,0,0,5,-0.119047621,0.09999995,-0.192307702,TRUE,FALSE,FALSE,0,0,TRUE,Max Purcell,Marcos Giron,Marcos Giron,Marcos Giron
+67,154,87,4,0,0,-5,0.250000046,-0.154545443,0.692307639,TRUE,FALSE,FALSE,1,1,TRUE,Marcos Giron,Nicolas Moreno De Alboran,Marcos Giron,Marcos Giron
+31,1049,1018,-9.6,0,0,-10,-0.340659318,0.576923055,0,FALSE,TRUE,FALSE,1,1,TRUE,Mariano Navone,Pablo Carreno Busta,Mariano Navone,Mariano Navone
+12,19,7,3.2,0,0,26,0.40350877,-0.020884533,0.833333264,TRUE,FALSE,FALSE,1,1,TRUE,Taylor Fritz,Sebastian Baez,Taylor Fritz,Taylor Fritz
+90,67,-23,-15.3,0,0,2,-0.232804254,-0.29999999,-0.416666655,TRUE,FALSE,FALSE,0,0,TRUE,Luca Nardi,Roberto Bautista Agut,Roberto Bautista Agut,Roberto Bautista Agut
+43,15,-28,9,0,0,-5,-0.05041628,-0.272058832,-0.02857139,FALSE,FALSE,TRUE,1,0,FALSE,Jordan Thompson,Holger Rune,Holger Rune,Jordan Thompson
+68,59,-9,-1.7,1,0,-5,-0.111111122,0.200000005,-0.39999992,TRUE,FALSE,FALSE,0,0,TRUE,Corentin Moutet,Roman Safiullin,Roman Safiullin,Roman Safiullin
+53,50,-3,2.3,0,1,-10,-0.242424238,0.044871794,-0.299999983,TRUE,FALSE,FALSE,0,0,TRUE,Miomir Kecmanovic,Jack Draper,Jack Draper,Jack Draper
+292,493,201,-1.8,0,0,3,0.999999,0.49999975,0,FALSE,TRUE,FALSE,1,1,TRUE,August Holmgren,Ernesto Escobedo,August Holmgren,August Holmgren
+393,65,-328,-5.7,0,0,-5,-0.416666649,-0.363636331,-0.166666861,FALSE,FALSE,TRUE,0,0,TRUE,Eliot Spizzirri,Aleksandar Vukic,Aleksandar Vukic,Aleksandar Vukic
+112,85,-27,7.2,0,1,-5,0.26851852,0.166666654,0.666666593,FALSE,FALSE,TRUE,1,1,TRUE,Roberto Bautista Agut,Maximilian Marterer,Roberto Bautista Agut,Roberto Bautista Agut
+109,6,-103,0.7,0,0,-5,-0.19887956,-0.147058821,0.49999975,FALSE,TRUE,FALSE,1,0,FALSE,Alexandre Muller,Andrey Rublev,Andrey Rublev,Alexandre Muller
+273,11,-262,4.5,0,0,-8,-0.266666761,-0.785714258,0.166666569,TRUE,FALSE,FALSE,0,0,TRUE,Lucas Pouille,Stefanos Tsitsipas,Stefanos Tsitsipas,Stefanos Tsitsipas
+44,6,-38,1,0,0,5,-0.248140636,-0.084558821,0.499999938,TRUE,FALSE,FALSE,0,0,TRUE,Zhizhen Zhang,Andrey Rublev,Andrey Rublev,Andrey Rublev
+4,18,14,3.2,0,0,2,0.109555697,0.293103471,0.049999976,TRUE,FALSE,FALSE,0,1,FALSE,Alexander Zverev,Sebastian Korda,Alexander Zverev,Sebastian Korda
+1,59,58,-5.4,0,0,-5,0.368421066,-0.151785712,0.233333317,FALSE,FALSE,TRUE,1,1,TRUE,Jannik Sinner,Matteo Berrettini,Jannik Sinner,Jannik Sinner
+48,77,29,-1.2,0,0,5,0.094594599,0.388888886,0.053571414,FALSE,FALSE,TRUE,1,1,TRUE,Flavio Cobolli,Rinky Hijikata,Flavio Cobolli,Flavio Cobolli
+122,31,-91,-6.2,0,0,-5,-0.025000015,-0.466666636,-0.238095268,TRUE,FALSE,FALSE,1,0,FALSE,Arthur Cazaux,Tallon Griekspoor,Tallon Griekspoor,Arthur Cazaux
+24,18,-6,6.4,0,0,16,-0.068181821,-0.099999998,-0.799999947,TRUE,FALSE,FALSE,0,0,TRUE,Nicolas Jarry,Lorenzo Musetti,Lorenzo Musetti,Lorenzo Musetti
+95,45,-50,-11,1,0,2,0.02693603,-0.045454537,-0.066666713,TRUE,FALSE,FALSE,1,0,FALSE,Denis Shapovalov,Roberto Bautista Agut,Roberto Bautista Agut,Denis Shapovalov
+2,28,26,12.2,0,0,-8,0.093749983,0.456140337,0.357142818,TRUE,FALSE,FALSE,0,1,FALSE,Novak Djokovic,Alexei Popyrin,Novak Djokovic,Alexei Popyrin
+32,43,11,-6,0,0,26,0.116666653,-0.124999984,0.444444395,TRUE,FALSE,FALSE,1,1,TRUE,Christopher Eubanks,Daniel Evans,Christopher Eubanks,Christopher Eubanks
+80,51,-29,-4.7,0,0,5,-0.119047621,0.09999995,-0.192307702,FALSE,TRUE,FALSE,1,0,FALSE,Max Purcell,Marcos Giron,Marcos Giron,Max Purcell
+289,56,-233,-6.3,0,0,-8,-0.499999964,0.434210355,-0.499999938,FALSE,TRUE,FALSE,1,1,TRUE,Lukas Neumayer,Sebastian Ofner,Lukas Neumayer,Lukas Neumayer
+24,73,49,7,0,0,10,0.209486166,0.315217373,0.33333337,FALSE,TRUE,FALSE,1,1,TRUE,Jan Lennard Struff,Jaume Munar,Jan Lennard Struff,Jan Lennard Struff
+7,118,111,-4.2,0,1,10,0.22500003,0.197478998,0.499999875,FALSE,TRUE,FALSE,0,1,FALSE,Stefanos Tsitsipas,Thiago Monteiro,Stefanos Tsitsipas,Thiago Monteiro
+21,20,-1,1.3,0,1,0,-0.166666666,0.275641034,-0.79999992,TRUE,FALSE,FALSE,1,0,FALSE,Felix Auger Aliassime,Jack Draper,Jack Draper,Felix Auger Aliassime
+67,201,134,-15.1,1,0,2,0.014170067,-0.083333285,0.59999988,TRUE,FALSE,FALSE,1,0,FALSE,Juncheng Shang,Kei Nishikori,Kei Nishikori,Juncheng Shang
+44,49,5,-1.4,0,0,2,-0.020689655,0.133928567,2.08E-08,FALSE,TRUE,FALSE,1,1,TRUE,Zhizhen Zhang,Lorenzo Sonego,Zhizhen Zhang,Zhizhen Zhang
+42,92,50,-1.1,0,0,-3,-0.15,0.245059295,-0.666666611,TRUE,FALSE,FALSE,1,0,FALSE,Pedro Martinez,Aleksandar Vukic,Aleksandar Vukic,Pedro Martinez
+42,61,19,-7.1,0,0,2,0.080808097,-0.265217397,0.39999992,FALSE,TRUE,FALSE,0,0,TRUE,Roman Safiullin,Dusan Lajovic,Dusan Lajovic,Dusan Lajovic
+15,85,70,-1.8,0,0,0,0.164728686,0.136363619,-0.166666694,TRUE,FALSE,FALSE,0,1,FALSE,Frances Tiafoe,Aleksandar Vukic,Frances Tiafoe,Aleksandar Vukic
+21,13,-8,-7.1,1,0,-3,-0.06471183,-0.249999979,-0.111111062,TRUE,FALSE,FALSE,1,1,TRUE,Ugo Humbert,Grigor Dimitrov,Ugo Humbert,Ugo Humbert
+19,99,80,3.4,0,0,-8,-0.136842099,0.452702715,0,FALSE,TRUE,FALSE,1,1,TRUE,Sebastian Baez,Luca Van Assche,Sebastian Baez,Sebastian Baez
+50,8,-42,3.6,0,0,8,-0.190909091,-0.352678578,1.67E-07,TRUE,FALSE,FALSE,0,0,TRUE,Lorenzo Sonego,Casper Ruud,Casper Ruud,Casper Ruud
+82,56,-26,1.4,1,0,-15,0.071724133,-0.272058832,0.59999988,TRUE,FALSE,FALSE,1,1,TRUE,Yoshihito Nishioka,Nuno Borges,Yoshihito Nishioka,Yoshihito Nishioka
+42,131,89,3.8,0,0,5,-0.181818085,-0.05982904,-0.29999979,FALSE,FALSE,TRUE,0,0,TRUE,Fabian Marozsan,Hamad Medjedovic,Hamad Medjedovic,Hamad Medjedovic
+15,30,15,-0.1,1,0,8,0.085271314,-0.383333208,0.79999992,TRUE,FALSE,FALSE,1,1,TRUE,Jack Draper,Jiri Lehecka,Jack Draper,Jack Draper
+65,23,-42,-3.3,0,0,-13,0.073614559,0.145454547,-0.166666715,TRUE,FALSE,FALSE,0,1,FALSE,Tomas Machac,Alexander Bublik,Tomas Machac,Alexander Bublik
+289,87,-202,-4.4,0,1,-8,-0.249999979,-0.333333296,0.59999988,FALSE,FALSE,TRUE,1,0,FALSE,Paul Jubb,Maximilian Marterer,Maximilian Marterer,Paul Jubb
+20,106,86,-3.5,1,0,8,0.578947338,0.078947359,0.39999992,FALSE,TRUE,FALSE,0,1,FALSE,Cameron Norrie,Federico Coria,Cameron Norrie,Federico Coria
+82,136,54,6.7,0,0,-5,0.352941156,0.583333285,0,FALSE,TRUE,FALSE,1,1,TRUE,Marton Fucsovics,Valentin Vacherot,Marton Fucsovics,Marton Fucsovics
+92,15,-77,-4.1,0,1,-5,-0.174418617,-0.416666632,-0.222222272,TRUE,FALSE,FALSE,0,0,TRUE,Arthur Cazaux,Ugo Humbert,Ugo Humbert,Ugo Humbert
+41,77,36,-4.1,0,0,2,0.545454529,0.329411774,0.333333222,TRUE,FALSE,FALSE,1,1,TRUE,Matteo Arnaldi,Bernabe Zapata Miralles,Matteo Arnaldi,Matteo Arnaldi
+62,18,-44,1,0,0,0,0.01108871,-0.166666644,-0.200000013,TRUE,FALSE,FALSE,1,0,FALSE,Alexei Popyrin,Sebastian Korda,Sebastian Korda,Alexei Popyrin
+42,16,-26,11.9,0,0,8,-0.093544139,0.149999993,-0.133333354,TRUE,FALSE,FALSE,1,0,FALSE,Jan Lennard Struff,Lorenzo Musetti,Lorenzo Musetti,Jan Lennard Struff
+15,16,1,5.4,0,1,-8,0.032894733,0.047619052,0.333333326,TRUE,FALSE,FALSE,1,1,TRUE,Tommy Paul,Ben Shelton,Tommy Paul,Tommy Paul
+12,58,46,-8.9,0,1,5,0.252489325,0.714285663,0.666666625,TRUE,FALSE,FALSE,0,1,FALSE,Tommy Paul,Adrian Mannarino,Tommy Paul,Adrian Mannarino
+37,272,235,-15.2,0,0,0,0.594594579,0.499999975,0.666666593,FALSE,TRUE,FALSE,1,1,TRUE,Arthur Fils,Joao Sousa,Arthur Fils,Arthur Fils
+292,696,404,7,0,1,0,0.749999063,-0.49999925,0,FALSE,TRUE,FALSE,0,0,TRUE,August Holmgren,Rodrigo Pacheco Mendez,Rodrigo Pacheco Mendez,Rodrigo Pacheco Mendez
+40,25,-15,-5.7,0,0,-5,-0.382142854,0.189583344,-0.17142857,FALSE,TRUE,FALSE,0,1,FALSE,Luciano Darderi,Tallon Griekspoor,Luciano Darderi,Tallon Griekspoor
+35,3,-32,2.6,0,0,0,-0.194040188,-0.209523811,-0.555555568,TRUE,FALSE,FALSE,0,0,TRUE,Tomas Machac,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+31,9,-22,0.3,0,0,2,-0.12662338,-0.163602935,-0.49999975,TRUE,FALSE,FALSE,1,0,FALSE,Francisco Cerundolo,Casper Ruud,Casper Ruud,Francisco Cerundolo
+113,57,-56,-2,0,0,-10,-0.211538489,-0.333333306,0,FALSE,TRUE,FALSE,0,0,TRUE,Vit Kopriva,Laslo Djere,Laslo Djere,Laslo Djere
+81,16,-65,-2.9,0,1,0,-0.038793111,-0.066666671,-0.16666666,TRUE,FALSE,FALSE,0,0,TRUE,Jakub Mensik,Ben Shelton,Ben Shelton,Ben Shelton
+4,23,19,-0.4,0,0,-3,0.25775194,0.187499985,0.749999906,TRUE,FALSE,FALSE,1,1,TRUE,Daniil Medvedev,Nicolas Jarry,Daniil Medvedev,Daniil Medvedev
+122,39,-83,4.9,0,0,-15,-0.444444428,-0.29999997,-0.39999992,TRUE,FALSE,FALSE,0,0,TRUE,Diego Schwartzman,Roman Safiullin,Roman Safiullin,Roman Safiullin
+46,210,164,-0.6,0,1,-3,2.33E-07,0.29999997,0.192307764,FALSE,FALSE,TRUE,1,1,TRUE,Marcos Giron,Alex Bolt,Marcos Giron,Marcos Giron
+145,18,-127,3.5,0,0,-15,-0.317829553,-0.166666736,-0.249999938,FALSE,TRUE,FALSE,1,0,FALSE,Jozef Kovalik,Karen Khachanov,Karen Khachanov,Jozef Kovalik
+18,101,83,0.3,0,0,-15,0.263157881,0.157248188,0,FALSE,TRUE,FALSE,1,1,TRUE,Sebastian Baez,Thiago Agustin Tirante,Sebastian Baez,Sebastian Baez
+33,19,-14,-1.7,0,0,-10,0.094594595,-0.136752141,0.428571367,TRUE,FALSE,FALSE,1,1,TRUE,Flavio Cobolli,Felix Auger Aliassime,Flavio Cobolli,Flavio Cobolli
+23,309,286,-6.5,0,0,0,0.016129099,0.454545413,-0.099999943,TRUE,FALSE,FALSE,0,1,FALSE,Alexander Bublik,Milos Raonic,Alexander Bublik,Milos Raonic
+55,700,645,14.8,0,1,-5,0.113636393,-0.434781633,0,TRUE,FALSE,FALSE,1,1,TRUE,Dusan Lajovic,Rodrigo Pacheco Mendez,Dusan Lajovic,Dusan Lajovic
+125,178,53,6.9,0,0,5,0,0.166666597,0,FALSE,TRUE,FALSE,0,1,FALSE,Stefano Napolitano,Gustavo Heide,Stefano Napolitano,Gustavo Heide
+59,28,-31,7.1,0,0,-2,-0.412776413,-0.065217385,-0.33333337,FALSE,TRUE,FALSE,0,0,TRUE,Jaume Munar,Arthur Fils,Arthur Fils,Arthur Fils
+15,69,54,2.9,0,0,10,0.051162806,0.466666651,-0.349999943,TRUE,FALSE,FALSE,0,1,FALSE,Karen Khachanov,Emil Ruusuvuori,Karen Khachanov,Emil Ruusuvuori
+54,160,106,0.2,0,0,-5,0.454545434,0.038461768,0.333333222,FALSE,TRUE,FALSE,1,1,TRUE,Roberto Carballes Baena,Denis Yevseyev,Roberto Carballes Baena,Roberto Carballes Baena
+80,46,-34,0.7,1,0,-21,0.020000015,0.059210496,0.099999943,FALSE,TRUE,FALSE,1,1,TRUE,Yoshihito Nishioka,Sebastian Ofner,Yoshihito Nishioka,Yoshihito Nishioka
+43,30,-13,7.9,0,0,-2,0.145586299,-0.225000017,-0.228571457,FALSE,FALSE,TRUE,0,0,TRUE,Jordan Thompson,Lorenzo Musetti,Lorenzo Musetti,Lorenzo Musetti
+5,69,64,1.4,0,0,0,0.027450998,0.447058825,-0.59999988,TRUE,FALSE,FALSE,1,1,TRUE,Andrey Rublev,Emil Ruusuvuori,Andrey Rublev,Andrey Rublev
+118,55,-63,7.5,0,0,0,-0.577777765,-0.333333296,-2.00E-07,FALSE,FALSE,TRUE,1,0,FALSE,Lloyd Harris,Alex Michelsen,Alex Michelsen,Lloyd Harris
+26,7,-19,1.2,0,0,-3,-0.196002579,-0.047058815,0.200000067,TRUE,FALSE,FALSE,0,0,TRUE,Lorenzo Musetti,Holger Rune,Holger Rune,Holger Rune
+85,322,237,-1.7,0,0,-26,0.201581036,0.333333296,-0.749999813,TRUE,FALSE,FALSE,1,1,TRUE,Zizou Bergs,Reilly Opelka,Zizou Bergs,Zizou Bergs
+235,60,-175,4,1,0,10,-0.230769213,-0.576923055,0,FALSE,TRUE,FALSE,0,0,TRUE,Aziz Dougaz,Mariano Navone,Mariano Navone,Mariano Navone
+73,26,-47,-8.2,0,0,5,0.052777778,-0.133333339,-0.07142854,TRUE,FALSE,FALSE,0,0,TRUE,Alex Michelsen,Tallon Griekspoor,Tallon Griekspoor,Tallon Griekspoor
+93,52,-41,6.6,0,0,-8,-0.421052609,0.154385961,-0.49999975,FALSE,TRUE,FALSE,1,1,TRUE,Federico Coria,Daniel Altmaier,Federico Coria,Federico Coria
+27,3,-24,7,0,0,15,-0.132620987,-0.14285716,-0.638888853,TRUE,FALSE,FALSE,0,0,TRUE,Karen Khachanov,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+112,142,30,-1,0,0,-13,-0.08333334,-0.31249998,0,FALSE,TRUE,FALSE,0,0,TRUE,Vit Kopriva,Daniel Elahi Galan,Daniel Elahi Galan,Daniel Elahi Galan
+1,24,23,14.8,0,0,3,0.265151492,0.189473673,0.057142788,FALSE,TRUE,FALSE,1,1,TRUE,Novak Djokovic,Lorenzo Musetti,Novak Djokovic,Novak Djokovic
+21,51,30,-3.6,0,1,-18,-0.236842102,0.178893185,-0.777777691,FALSE,TRUE,FALSE,1,1,TRUE,Sebastian Baez,Alejandro Tabilo,Sebastian Baez,Sebastian Baez
+28,9,-19,-2.4,0,0,0,-0.156108597,-0.177777755,-0.464285675,FALSE,TRUE,FALSE,0,0,TRUE,Tomas Martin Etcheverry,Hubert Hurkacz,Hubert Hurkacz,Hubert Hurkacz
+9,6,-3,6.4,0,0,3,0.111679451,0.019607826,0.666666556,TRUE,FALSE,FALSE,1,1,TRUE,Grigor Dimitrov,Andrey Rublev,Grigor Dimitrov,Grigor Dimitrov
+87,175,88,6.8,0,1,8,-0.099999951,0.454545413,0.333333222,FALSE,TRUE,FALSE,1,1,TRUE,Botic Van De Zandschulp,Dominic Stricker,Botic Van De Zandschulp,Botic Van De Zandschulp
+13,10,-3,-6.4,0,0,5,-0.072463768,0.01515154,0.166666708,FALSE,TRUE,FALSE,1,1,TRUE,Taylor Fritz,Grigor Dimitrov,Taylor Fritz,Taylor Fritz
+474,4,-470,3.8,0,0,-5,-0.754716967,-0.793103421,-0.749999906,FALSE,FALSE,TRUE,0,0,TRUE,Oscar Otte,Alexander Zverev,Alexander Zverev,Alexander Zverev
+23,49,26,-2.9,0,0,-3,0.061261263,2.50E-08,0.030303014,TRUE,FALSE,FALSE,0,1,FALSE,Arthur Fils,Brandon Nakashima,Arthur Fils,Brandon Nakashima
+18,53,35,-1.4,0,0,-13,-0.161084531,0.241164258,-0.499999938,FALSE,FALSE,TRUE,0,0,TRUE,Sebastian Baez,Miomir Kecmanovic,Miomir Kecmanovic,Miomir Kecmanovic
+18,4,-14,-2.4,1,0,-10,0,-0.270833325,-0.194444412,TRUE,FALSE,FALSE,1,0,FALSE,Ugo Humbert,Daniil Medvedev,Daniil Medvedev,Ugo Humbert
+93,7,-86,4.6,0,0,-5,-0.362669246,-0.480392147,-0.100000005,TRUE,FALSE,FALSE,0,0,TRUE,Aleksandar Kovacevic,Holger Rune,Holger Rune,Holger Rune
+12,34,22,-3.2,0,0,5,0.138461557,0.452380952,0.499999875,FALSE,TRUE,FALSE,1,1,TRUE,Stefanos Tsitsipas,Laslo Djere,Stefanos Tsitsipas,Stefanos Tsitsipas
+279,900,621,2.2,0,0,-10,0.999999,0,0,TRUE,FALSE,FALSE,1,1,TRUE,Moez Echargui,Jesse Flores,Moez Echargui,Moez Echargui
+64,68,4,5.7,0,0,-8,0.104545451,-0.011538455,0.333333222,FALSE,TRUE,FALSE,1,0,FALSE,Roberto Carballes Baena,Pavel Kotov,Pavel Kotov,Roberto Carballes Baena
+319,547,228,-9.6,0,0,3,0.999999,0,0,TRUE,FALSE,FALSE,1,1,TRUE,Blaise Bicknell,Darian King,Blaise Bicknell,Blaise Bicknell
+13,81,68,-1.6,0,0,8,0.250000001,0.31818182,0.166666653,FALSE,FALSE,TRUE,1,1,TRUE,Taylor Fritz,Aleksandar Vukic,Taylor Fritz,Taylor Fritz
+13,3,-10,-6,0,0,-10,-0.073865918,-0.146044635,-0.150000026,TRUE,FALSE,FALSE,0,0,TRUE,Holger Rune,Alexander Zverev,Alexander Zverev,Alexander Zverev
+82,20,-62,5.8,0,0,3,-0.173541969,-0.233333326,-0.166666843,TRUE,FALSE,FALSE,0,0,TRUE,Daniel Altmaier,Arthur Fils,Arthur Fils,Arthur Fils
+58,24,-34,-3.5,0,1,-3,-0.031249998,-0.123809526,-0.444444469,FALSE,FALSE,TRUE,0,0,TRUE,Alexander Shevchenko,Alejandro Tabilo,Alejandro Tabilo,Alejandro Tabilo
+66,35,-31,7.3,0,0,0,-0.146318732,0.14705881,-0.666666593,TRUE,FALSE,FALSE,0,0,TRUE,Nuno Borges,Arthur Fils,Arthur Fils,Arthur Fils
+53,15,-38,2.4,1,0,0,-0.002447997,1.87E-08,-0.099999997,TRUE,FALSE,FALSE,0,0,TRUE,Cameron Norrie,Frances Tiafoe,Frances Tiafoe,Frances Tiafoe
+63,71,8,-6.6,0,1,13,0.074594599,0.180555572,-0.171428513,TRUE,FALSE,FALSE,1,1,TRUE,Flavio Cobolli,Yoshihito Nishioka,Flavio Cobolli,Flavio Cobolli
+92,97,5,2,0,0,3,0.035714286,-0.036363589,0.166666674,TRUE,FALSE,FALSE,0,1,FALSE,Aleksandar Vukic,Max Purcell,Aleksandar Vukic,Max Purcell
+57,16,-41,-2.5,0,1,-3,-0.205668604,-0.016666659,-0.222222272,FALSE,FALSE,TRUE,0,0,TRUE,Alexander Shevchenko,Ugo Humbert,Ugo Humbert,Ugo Humbert
+120,109,-11,0.5,0,0,-7,0.499999875,-0.545454496,0.666666444,FALSE,TRUE,FALSE,0,0,TRUE,Francisco Comesana,Thiago Agustin Tirante,Thiago Agustin Tirante,Thiago Agustin Tirante
+42,85,43,9.3,0,0,8,-0.119540241,-0.59999994,0.111111117,FALSE,FALSE,TRUE,0,0,TRUE,Christopher Eubanks,Jakub Mensik,Jakub Mensik,Jakub Mensik
+12,67,55,2,0,0,3,0.181818181,0.297202796,0.633333304,TRUE,FALSE,FALSE,1,1,TRUE,Taylor Fritz,Fabian Marozsan,Taylor Fritz,Taylor Fritz
+295,100,-195,0.4,0,0,2,-0.318181804,-0.166666639,-0.499999875,TRUE,FALSE,FALSE,0,0,TRUE,Brandon Holt,Aleksandar Kovacevic,Aleksandar Kovacevic,Aleksandar Kovacevic
+7,32,25,0.5,0,0,0,0.090909093,0.406250022,0.49999975,FALSE,TRUE,FALSE,1,1,TRUE,Casper Ruud,Alejandro Davidovich Fokina,Casper Ruud,Casper Ruud
+104,24,-80,-2,0,1,-3,0.065217383,-0.190476203,-0.777777691,FALSE,TRUE,FALSE,1,0,FALSE,Zizou Bergs,Alejandro Tabilo,Alejandro Tabilo,Zizou Bergs
+82,35,-47,7.1,1,0,3,-0.094594595,0.023809524,0.111111099,TRUE,FALSE,FALSE,1,0,FALSE,Alejandro Tabilo,Arthur Fils,Arthur Fils,Alejandro Tabilo
+359,49,-310,4.9,1,0,2,-0.594594579,-0.555555525,0.071428383,FALSE,FALSE,TRUE,0,0,TRUE,Giles Hussey,Flavio Cobolli,Flavio Cobolli,Flavio Cobolli
+30,76,46,1.2,0,0,-13,0.120300748,0.046452704,-0.39999992,FALSE,TRUE,FALSE,1,1,TRUE,Sebastian Baez,Luciano Darderi,Sebastian Baez,Sebastian Baez
+142,9,-133,-8.6,0,0,-3,-0.031440164,-0.177777795,-0.380952334,TRUE,FALSE,FALSE,0,0,TRUE,Jakub Mensik,Hubert Hurkacz,Hubert Hurkacz,Hubert Hurkacz
+48,44,-4,-6.8,0,0,10,0.120689637,0.27083323,0.071428552,TRUE,FALSE,FALSE,0,1,FALSE,Giovanni Mpetshi Perricard,Zhizhen Zhang,Giovanni Mpetshi Perricard,Zhizhen Zhang
+79,2,-77,2.4,1,0,-11,-0.614035099,-0.285714255,-0.89999991,FALSE,TRUE,FALSE,0,0,TRUE,Corentin Moutet,Jannik Sinner,Jannik Sinner,Jannik Sinner
+19,13,-6,-3.1,0,0,-26,-0.40350877,0.020884533,-0.833333264,FALSE,TRUE,FALSE,0,0,TRUE,Sebastian Baez,Taylor Fritz,Taylor Fritz,Taylor Fritz
+44,12,-32,-6.1,1,0,-3,-0.239130435,-0.142857112,0.111111136,TRUE,FALSE,FALSE,0,0,TRUE,Alejandro Tabilo,Grigor Dimitrov,Grigor Dimitrov,Grigor Dimitrov
+12,5,-7,-1.3,0,0,-5,-0.154716984,-0.007389163,-0.250000031,FALSE,TRUE,FALSE,1,0,FALSE,Stefanos Tsitsipas,Alexander Zverev,Alexander Zverev,Stefanos Tsitsipas
+81,77,-4,-5.4,0,0,-13,0.099999993,-0.287878774,0.041666731,TRUE,FALSE,FALSE,0,1,FALSE,Rinky Hijikata,Botic Van De Zandschulp,Rinky Hijikata,Botic Van De Zandschulp
+4,66,62,-5.9,0,0,0,0.547368418,0.331168816,0.566666688,TRUE,FALSE,FALSE,1,1,TRUE,Jannik Sinner,Botic Van De Zandschulp,Jannik Sinner,Jannik Sinner
+12,9,-3,0.5,0,0,10,-0.066666669,0.119047635,-0.300000045,TRUE,FALSE,FALSE,0,0,TRUE,Stefanos Tsitsipas,Alex De Minaur,Alex De Minaur,Alex De Minaur
+103,6,-97,1,0,0,-5,-0.25471699,-0.459770143,-0.250000156,TRUE,FALSE,FALSE,0,0,TRUE,Thanasi Kokkinakis,Alexander Zverev,Alexander Zverev,Alexander Zverev
+62,23,-39,1.8,0,1,8,0.018518516,-0.123809539,-0.349206324,TRUE,FALSE,FALSE,0,0,TRUE,Arthur Rinderknech,Alejandro Tabilo,Alejandro Tabilo,Alejandro Tabilo
+43,77,34,-5.4,0,1,15,0.02545455,0.15441178,-0.266666658,TRUE,FALSE,FALSE,1,0,FALSE,Matteo Arnaldi,Yoshihito Nishioka,Yoshihito Nishioka,Matteo Arnaldi
+416,463,47,-1.8,0,1,-3,-0.666666444,0,0,TRUE,FALSE,FALSE,0,0,TRUE,Oleksandr Ovcharenko,Yshai Oliel,Yshai Oliel,Yshai Oliel
+240,26,-214,-4.5,0,0,-8,-0.524999987,-0.066666716,-0.57142849,FALSE,TRUE,FALSE,1,0,FALSE,Francesco Passaro,Tallon Griekspoor,Tallon Griekspoor,Francesco Passaro
+99,41,-58,-5,0,0,-8,-0.391304331,-0.59615382,-0.666666593,FALSE,TRUE,FALSE,0,0,TRUE,Pedro Cachin,Jan Lennard Struff,Jan Lennard Struff,Jan Lennard Struff
+16,86,70,-3.7,0,0,0,0.372180475,0.514285703,0.833333264,FALSE,TRUE,FALSE,1,1,TRUE,Tommy Paul,Aslan Karatsev,Tommy Paul,Tommy Paul
+117,29,-88,-4,0,0,7,0.038461525,0.233333214,0.321428552,FALSE,TRUE,FALSE,1,1,TRUE,Giovanni Mpetshi Perricard,Tomas Martin Etcheverry,Giovanni Mpetshi Perricard,Giovanni Mpetshi Perricard
+48,100,52,-11.4,0,0,3,-0.005405397,0.222222247,0.428571367,TRUE,FALSE,FALSE,1,1,TRUE,Flavio Cobolli,David Goffin,Flavio Cobolli,Flavio Cobolli
+1,25,24,0.4,0,1,-2,0.280701755,0.369047598,0.09999999,TRUE,FALSE,FALSE,1,1,TRUE,Jannik Sinner,Jack Draper,Jannik Sinner,Jannik Sinner
+2,27,25,-1.1,0,0,-5,0.302207135,0.28571428,0.19999998,FALSE,TRUE,FALSE,1,1,TRUE,Jannik Sinner,Sebastian Korda,Jannik Sinner,Jannik Sinner
+87,54,-33,-5.4,0,0,-5,0.257142858,3.12E-08,0,TRUE,FALSE,FALSE,1,1,TRUE,Luca Van Assche,J J Wolf,Luca Van Assche,Luca Van Assche
+51,261,210,-10.7,0,1,0,-0.051724028,0.022058825,0,FALSE,TRUE,FALSE,1,0,FALSE,Nuno Borges,Rafael Nadal,Rafael Nadal,Nuno Borges
+90,82,-8,6.5,0,0,-3,0.418181811,-0.101449312,-0.333333222,TRUE,FALSE,FALSE,1,1,TRUE,David Goffin,Jaume Munar,David Goffin,David Goffin
+11,181,170,2.1,0,0,-3,0.599999983,0.285714508,0.499999875,FALSE,FALSE,TRUE,1,1,TRUE,Stefanos Tsitsipas,Henri Squire,Stefanos Tsitsipas,Stefanos Tsitsipas
+36,184,148,-10.8,0,0,3,-0.119230769,0.45192307,0,TRUE,FALSE,FALSE,0,0,TRUE,Mariano Navone,Daniel Evans,Daniel Evans,Daniel Evans
+131,102,-29,1.8,0,0,0,-0.318518519,-0.214285705,-0.666666593,TRUE,FALSE,FALSE,0,0,TRUE,Richard Gasquet,Roberto Bautista Agut,Roberto Bautista Agut,Roberto Bautista Agut
+8,46,38,3.3,0,0,3,0.081996439,0.117647052,-0.333333222,TRUE,FALSE,FALSE,1,1,TRUE,Andrey Rublev,Matteo Arnaldi,Andrey Rublev,Andrey Rublev
+119,364,245,4.8,1,0,-8,0.374999953,0.58823526,0,TRUE,FALSE,FALSE,1,1,TRUE,Thiago Monteiro,Karl Friberg,Thiago Monteiro,Thiago Monteiro
+56,225,169,-2.2,0,0,5,0.421052609,0.266666649,0.49999975,TRUE,FALSE,FALSE,1,1,TRUE,Daniel Altmaier,Li Tu,Daniel Altmaier,Daniel Altmaier
+170,88,-82,9.8,0,0,-10,-0.071052627,-0.32954545,-0.499999875,TRUE,FALSE,FALSE,0,0,TRUE,Daniel Evans,Thiago Seyboth Wild,Thiago Seyboth Wild,Thiago Seyboth Wild
+106,366,260,6.7,0,1,-5,0,-0.549999853,0,FALSE,TRUE,FALSE,0,0,TRUE,Hugo Dellien,Franco Roncadelli,Franco Roncadelli,Franco Roncadelli
+128,94,-34,2.1,0,0,-10,-0.300000017,0.09523809,-0.49999975,FALSE,TRUE,FALSE,1,1,TRUE,Gregoire Barrere,Thanasi Kokkinakis,Gregoire Barrere,Gregoire Barrere
+60,57,-3,5.4,1,0,-13,0.015151499,0.015384618,0.299999915,TRUE,FALSE,FALSE,1,1,TRUE,Dominik Koepfer,Fabian Marozsan,Dominik Koepfer,Dominik Koepfer
+82,59,-23,7.3,0,0,0,-0.18303574,-0.200000013,-0.333333222,FALSE,TRUE,FALSE,0,0,TRUE,Aslan Karatsev,Alexander Shevchenko,Alexander Shevchenko,Alexander Shevchenko
+42,5,-37,-0.7,0,0,-5,-0.295108257,-0.124999992,-0.249999969,FALSE,FALSE,TRUE,1,0,FALSE,Zhizhen Zhang,Daniil Medvedev,Daniil Medvedev,Zhizhen Zhang
+62,6,-56,3,1,0,-18,-0.254716998,-0.393103448,-0.250000031,TRUE,FALSE,FALSE,0,0,TRUE,Dominik Koepfer,Alexander Zverev,Alexander Zverev,Alexander Zverev
+65,118,53,4,0,1,0,-0.011363623,-0.023017893,0,FALSE,TRUE,FALSE,0,0,TRUE,Dusan Lajovic,Thiago Monteiro,Thiago Monteiro,Thiago Monteiro
+51,133,82,11.4,0,1,0,0.113636393,0.231884145,0,TRUE,FALSE,FALSE,0,1,FALSE,Dusan Lajovic,Giulio Zeppieri,Dusan Lajovic,Giulio Zeppieri
+53,87,34,2.3,0,1,5,0.296052625,-0.358333325,0.49999975,FALSE,TRUE,FALSE,0,0,TRUE,Daniel Altmaier,Facundo Diaz Acosta,Facundo Diaz Acosta,Facundo Diaz Acosta
+36,31,-5,-1.1,0,0,-3,-0.080555559,-0.166666666,-0.17142857,TRUE,FALSE,FALSE,0,0,TRUE,Roman Safiullin,Tallon Griekspoor,Tallon Griekspoor,Tallon Griekspoor
+19,79,60,3.5,0,1,21,0.083333344,-2.78E-09,0,FALSE,TRUE,FALSE,0,1,FALSE,Nicolas Jarry,Corentin Moutet,Nicolas Jarry,Corentin Moutet
+46,21,-25,-2.1,0,0,0,0.140120964,-0.121212108,-2.08E-08,TRUE,FALSE,FALSE,1,1,TRUE,Alexei Popyrin,Alexander Bublik,Alexei Popyrin,Alexei Popyrin
+314,19,-295,4.5,0,0,-26,-0.416666649,-0.499999972,0,TRUE,FALSE,FALSE,0,0,TRUE,Steven Diez,Nicolas Jarry,Nicolas Jarry,Nicolas Jarry
+71,29,-42,6,0,0,-13,-0.145161284,-0.49999995,-0.69999993,TRUE,FALSE,FALSE,0,0,TRUE,Christopher Oconnell,Sebastian Korda,Sebastian Korda,Sebastian Korda
+44,9,-35,1.9,0,0,0,-0.220689651,-0.223214293,6.25E-08,FALSE,TRUE,FALSE,0,0,TRUE,Zhizhen Zhang,Stefanos Tsitsipas,Stefanos Tsitsipas,Stefanos Tsitsipas
+143,111,-32,-5.6,0,0,-8,-0.350000022,-2.07E-08,-0.249999938,FALSE,TRUE,FALSE,0,0,TRUE,Nicolas Moreno De Alboran,Yannick Hanfmann,Yannick Hanfmann,Yannick Hanfmann
+144,108,-36,-9.6,0,0,5,-0.222222198,-0.383333325,-0.59999988,TRUE,FALSE,FALSE,0,0,TRUE,Bernabe Zapata Miralles,Fabio Fognini,Fabio Fognini,Fabio Fognini
+11,1,-10,-11.7,0,0,-5,-0.083333311,-0.12280702,-0.057142815,FALSE,TRUE,FALSE,0,0,TRUE,Alex De Minaur,Novak Djokovic,Novak Djokovic,Novak Djokovic
+76,70,-6,-15.7,0,0,-10,0.046207499,0.222222228,-0.285714245,TRUE,FALSE,FALSE,1,1,TRUE,Flavio Cobolli,Gael Monfils,Flavio Cobolli,Flavio Cobolli
+7,336,329,0.5,0,0,16,0.166666776,0.681818151,0.833333264,TRUE,FALSE,FALSE,1,1,TRUE,Taylor Fritz,Yosuke Watanuki,Taylor Fritz,Taylor Fritz
+50,92,42,1.8,0,0,10,0.061128528,0.395833326,6.25E-08,TRUE,FALSE,FALSE,1,1,TRUE,Zhizhen Zhang,Aleksandar Kovacevic,Zhizhen Zhang,Zhizhen Zhang
+7,31,24,5.2,0,0,13,0.023052462,0.22222221,0.285714245,TRUE,FALSE,FALSE,1,1,TRUE,Hubert Hurkacz,Flavio Cobolli,Hubert Hurkacz,Hubert Hurkacz
+74,87,13,-8.1,0,0,-13,0.152173907,-0.08333333,0.374999953,TRUE,FALSE,FALSE,1,1,TRUE,Rinky Hijikata,Taro Daniel,Rinky Hijikata,Rinky Hijikata
+9,3,-6,-1,0,0,-2,-0.056771548,0.090277778,-0.035714294,TRUE,FALSE,FALSE,0,0,TRUE,Hubert Hurkacz,Daniil Medvedev,Daniil Medvedev,Daniil Medvedev
+17,52,35,-15.5,0,0,-8,-0.063538609,0.266666674,0.085714334,TRUE,FALSE,FALSE,1,1,TRUE,Lorenzo Musetti,Gael Monfils,Lorenzo Musetti,Lorenzo Musetti
+64,121,57,1.8,0,0,-2,0.499999984,-0.170454543,0,TRUE,FALSE,FALSE,1,1,TRUE,Alejandro Davidovich Fokina,Thiago Agustin Tirante,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina
+10,65,55,14.3,0,0,-2,0.152923542,0.066666671,0.333333278,TRUE,FALSE,FALSE,0,1,FALSE,Grigor Dimitrov,Jakub Mensik,Grigor Dimitrov,Jakub Mensik
+115,456,341,6.2,0,0,5,0.249999938,0,0,TRUE,FALSE,FALSE,1,1,TRUE,Vit Kopriva,Orel Kimhi,Vit Kopriva,Vit Kopriva
+139,144,5,-0.1,1,1,-3,-0.249999938,0,0,FALSE,TRUE,FALSE,1,0,FALSE,Matteo Gigante,Giulio Zeppieri,Giulio Zeppieri,Matteo Gigante
+79,41,-38,1.9,0,1,8,0.018518516,-0.123809539,-0.349206324,FALSE,TRUE,FALSE,0,0,TRUE,Arthur Rinderknech,Alejandro Tabilo,Alejandro Tabilo,Alejandro Tabilo
+33,91,58,-4.5,0,0,-5,0.173076925,0.236363629,-0.333333389,TRUE,FALSE,FALSE,1,1,TRUE,Tomas Machac,Aleksandar Vukic,Tomas Machac,Tomas Machac
+47,64,17,2,0,0,-5,0.21376812,0.011363623,-0.095238121,TRUE,FALSE,FALSE,1,1,TRUE,Jordan Thompson,Aleksandar Vukic,Jordan Thompson,Jordan Thompson
+178,15,-163,-3.7,0,1,3,-0.674418589,-0.083333354,-0.555555494,FALSE,TRUE,FALSE,1,0,FALSE,Gustavo Heide,Ugo Humbert,Ugo Humbert,Gustavo Heide
+302,160,-142,-10.9,0,0,5,-0.666666444,0,0,TRUE,FALSE,FALSE,0,0,TRUE,James Mccabe,Yasutaka Uchiyama,Yasutaka Uchiyama,Yasutaka Uchiyama
+45,67,22,-0.5,0,0,5,0.178947351,0.482954528,0.33333337,TRUE,FALSE,FALSE,1,1,TRUE,Matteo Berrettini,Botic Van De Zandschulp,Matteo Berrettini,Matteo Berrettini
+13,33,20,3.4,0,0,2,0.068151145,0.114285703,0.500000042,TRUE,FALSE,FALSE,0,1,FALSE,Tommy Paul,Tomas Machac,Tommy Paul,Tomas Machac
+49,12,-37,-3.7,0,0,-8,-0.133333335,-0.181818201,-0.196969685,TRUE,FALSE,FALSE,1,0,FALSE,Brandon Nakashima,Taylor Fritz,Taylor Fritz,Brandon Nakashima
+5,46,41,-9.4,0,0,5,0.12603151,0.354166661,0.035714294,TRUE,FALSE,FALSE,1,1,TRUE,Daniil Medvedev,Gael Monfils,Daniil Medvedev,Daniil Medvedev
+91,82,-9,-0.8,0,1,8,-0.166666761,-0.523809499,-0.777777691,TRUE,FALSE,FALSE,0,0,TRUE,Borna Gojo,Alejandro Tabilo,Alejandro Tabilo,Alejandro Tabilo
+273,286,13,-5.6,0,0,-2,-0.999999,0,0,TRUE,FALSE,FALSE,0,0,TRUE,Gonzalo Bueno,Remy Bertola,Remy Bertola,Remy Bertola
+62,24,-38,5.1,0,0,0,-0.036572624,0.047058815,-0.799999947,FALSE,TRUE,FALSE,1,0,FALSE,Nuno Borges,Lorenzo Musetti,Lorenzo Musetti,Nuno Borges
+153,51,-102,-0.1,0,0,0,-0.448275847,-0.647058785,0,FALSE,TRUE,FALSE,0,0,TRUE,Andrea Pellegrino,Nuno Borges,Nuno Borges,Nuno Borges
+171,179,8,-0.7,1,0,11,0.333333278,0.249999906,0,TRUE,FALSE,FALSE,1,1,TRUE,Marc Andrea Huesler,Juan Pablo Varillas,Marc Andrea Huesler,Marc Andrea Huesler
+780,288,-492,2.5,0,0,0,0,-0.49999975,0,FALSE,TRUE,FALSE,0,0,TRUE,Wishaya Trongcharoenchaikul,Murkel Alejandro Dellien Velasco,Murkel Alejandro Dellien Velasco,Murkel Alejandro Dellien Velasco
+54,102,48,1.7,0,0,8,-0.028571421,-0.071428566,1.67E-07,FALSE,TRUE,FALSE,1,0,FALSE,Lorenzo Sonego,Alexandre Muller,Alexandre Muller,Lorenzo Sonego
+83,142,59,-7.1,0,0,-5,-0.166666472,0.31249998,-0.49999975,FALSE,TRUE,FALSE,1,1,TRUE,Daniel Elahi Galan,Benoit Paire,Daniel Elahi Galan,Daniel Elahi Galan
+22,119,97,2.2,0,0,7,-0.035714177,0.617647041,-0.666666444,FALSE,TRUE,FALSE,1,1,TRUE,Francisco Cerundolo,Francisco Comesana,Francisco Cerundolo,Francisco Cerundolo
+50,15,-35,1.7,0,0,0,-0.147517734,-0.147058835,0.036363699,TRUE,FALSE,FALSE,1,0,FALSE,Brandon Nakashima,Holger Rune,Holger Rune,Brandon Nakashima
+11,5,-6,-1.4,0,0,-5,0.039215684,0.019607837,0.79999992,TRUE,FALSE,FALSE,1,0,FALSE,Alex De Minaur,Andrey Rublev,Andrey Rublev,Alex De Minaur
+39,75,36,-0.6,0,0,5,0.111538461,0.050000007,0.249999938,TRUE,FALSE,FALSE,1,1,TRUE,Tomas Martin Etcheverry,Pavel Kotov,Tomas Martin Etcheverry,Tomas Martin Etcheverry
+134,131,-3,-8,0,0,8,0.29999979,0.071428383,0,FALSE,TRUE,FALSE,1,1,TRUE,Leandro Riedi,Gregoire Barrere,Leandro Riedi,Leandro Riedi
+140,100,-40,2,1,0,-5,0.333333306,-0.045454521,0,FALSE,TRUE,FALSE,1,1,TRUE,Corentin Moutet,Thiago Agustin Tirante,Corentin Moutet,Corentin Moutet
+38,93,55,-3.5,0,0,7,0.43434343,0.165775403,0.333333222,FALSE,TRUE,FALSE,0,1,FALSE,Matteo Arnaldi,Sumit Nagal,Matteo Arnaldi,Sumit Nagal
+76,33,-43,6.7,1,0,-2,-0.170454576,0.058823526,-0.333333222,TRUE,FALSE,FALSE,0,0,TRUE,Thiago Monteiro,Matteo Arnaldi,Matteo Arnaldi,Matteo Arnaldi
+178,30,-148,4.4,0,0,3,-0.214285738,-0.692307666,0,TRUE,FALSE,FALSE,0,0,TRUE,Hugo Grenier,Felix Auger Aliassime,Felix Auger Aliassime,Felix Auger Aliassime
+48,22,-26,-1.8,0,0,-13,-0.050566691,0.055555575,-0.271428563,TRUE,FALSE,FALSE,0,0,TRUE,Flavio Cobolli,Sebastian Korda,Sebastian Korda,Sebastian Korda
+96,19,-77,0.1,0,0,0,0.11515149,-0.59999997,-0.799999947,TRUE,FALSE,FALSE,1,0,FALSE,Bu Yunchaokete,Lorenzo Musetti,Lorenzo Musetti,Bu Yunchaokete
+21,83,62,-6.5,0,0,5,0.464285698,0.196594431,0,FALSE,TRUE,FALSE,1,1,TRUE,Francisco Cerundolo,Federico Coria,Francisco Cerundolo,Francisco Cerundolo
+27,9,-18,-9.4,0,0,-8,-0.149386844,-0.066666651,-0.333333333,TRUE,FALSE,FALSE,1,0,FALSE,Tomas Machac,Grigor Dimitrov,Grigor Dimitrov,Tomas Machac
+61,36,-25,12.6,0,0,8,0.005405381,-0.045454541,-0.416666655,FALSE,TRUE,FALSE,0,0,TRUE,Yannick Hanfmann,Arthur Fils,Arthur Fils,Arthur Fils
+21,60,39,-12.4,0,0,10,-0.018518516,0.192307716,-0.666666593,TRUE,FALSE,FALSE,0,0,TRUE,Felix Auger Aliassime,Roberto Bautista Agut,Roberto Bautista Agut,Roberto Bautista Agut
+142,114,-28,-6.4,0,1,8,0.040752347,0.145454527,-0.266666602,TRUE,FALSE,FALSE,1,1,TRUE,Jakub Mensik,Denis Shapovalov,Jakub Mensik,Jakub Mensik
+41,17,-24,12.4,0,1,-18,-0.275000004,-0.541666627,-0.499999938,TRUE,FALSE,FALSE,0,0,TRUE,Daniel Evans,Ben Shelton,Ben Shelton,Ben Shelton
+94,114,20,7.7,0,0,3,0.125000032,-0.249999938,0,TRUE,FALSE,FALSE,1,1,TRUE,Christopher Oconnell,Harold Mayot,Christopher Oconnell,Christopher Oconnell
+62,142,80,8.9,0,0,-5,-0.194331983,-0.937499941,-0.33333337,TRUE,FALSE,FALSE,1,0,FALSE,Andy Murray,Matteo Berrettini,Matteo Berrettini,Andy Murray
+20,42,22,-14.2,0,0,-8,0.203290248,-0.249999988,0,TRUE,FALSE,FALSE,1,1,TRUE,Arthur Fils,Jan Lennard Struff,Arthur Fils,Arthur Fils
+7,53,46,2.3,0,1,10,0.474999998,0.160714284,0.499999875,FALSE,TRUE,FALSE,1,1,TRUE,Stefanos Tsitsipas,Facundo Diaz Acosta,Stefanos Tsitsipas,Stefanos Tsitsipas
+30,147,117,-1.7,0,1,-10,-0.070175425,0.202702709,0,FALSE,TRUE,FALSE,1,1,TRUE,Sebastian Baez,Corentin Moutet,Sebastian Baez,Sebastian Baez
+37,58,21,13.5,0,0,8,0.12733447,-0.121212138,0.214285737,FALSE,TRUE,FALSE,1,0,FALSE,Gael Monfils,Thiago Seyboth Wild,Thiago Seyboth Wild,Gael Monfils
+269,3,-266,0,0,0,8,-0.283784013,-0.809523771,-0.88888879,FALSE,FALSE,TRUE,0,0,TRUE,Mark Lajal,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+106,76,-30,9.9,0,0,-3,-0.321867331,-0.555555525,-0.428571367,TRUE,FALSE,FALSE,0,0,TRUE,Constant Lestienne,Flavio Cobolli,Flavio Cobolli,Flavio Cobolli
+4,40,36,-9.5,0,0,5,0.12603151,0.354166661,0.035714294,FALSE,TRUE,FALSE,1,1,TRUE,Daniil Medvedev,Gael Monfils,Daniil Medvedev,Daniil Medvedev
+80,141,61,14.1,0,0,-13,0.222222198,0.583333285,0.59999988,FALSE,TRUE,FALSE,1,1,TRUE,Fabio Fognini,Titouan Droguet,Fabio Fognini,Fabio Fognini
+30,16,-14,3.3,0,1,3,-0.163461543,-0.066666631,-0.25,FALSE,TRUE,FALSE,0,0,TRUE,Tomas Martin Etcheverry,Ben Shelton,Ben Shelton,Ben Shelton
+33,18,-15,0.5,0,0,-8,-0.107038125,-0.168831168,-1.87E-07,FALSE,TRUE,FALSE,1,0,FALSE,Borna Coric,Alexander Bublik,Alexander Bublik,Borna Coric
+147,68,-79,-3.2,0,0,8,-0.00595241,-0.39999992,-1.87E-07,FALSE,FALSE,TRUE,1,0,FALSE,Otto Virtanen,Max Purcell,Max Purcell,Otto Virtanen
+416,554,138,0.4,0,0,10,-0.999999,0,0,TRUE,FALSE,FALSE,0,0,TRUE,Kris Van Wyk,Nam Hoang Ly,Nam Hoang Ly,Nam Hoang Ly
+28,127,99,2.5,0,0,8,-0.011904749,5.56E-08,0,TRUE,FALSE,FALSE,1,1,TRUE,Nicolas Jarry,Lukas Klein,Nicolas Jarry,Nicolas Jarry
+36,48,12,1.1,0,0,-5,-0.363825366,0.02136753,-0.428571367,FALSE,TRUE,FALSE,0,0,TRUE,Mariano Navone,Flavio Cobolli,Flavio Cobolli,Flavio Cobolli
+590,70,-520,-6.2,0,0,0,0.071428342,-0.499999964,-0.49999975,TRUE,FALSE,FALSE,0,0,TRUE,Leo Borg,Alexandre Muller,Alexandre Muller,Alexandre Muller
+52,8,-44,-3.7,0,0,0,-0.094117653,-0.147058835,0.636363579,TRUE,FALSE,FALSE,0,0,TRUE,Brandon Nakashima,Andrey Rublev,Andrey Rublev,Andrey Rublev
+91,21,-70,2.8,0,0,-3,-0.581395335,-0.346153808,-0.499999917,FALSE,TRUE,FALSE,1,0,FALSE,Pedro Cachin,Frances Tiafoe,Frances Tiafoe,Pedro Cachin
+60,73,13,5.1,0,0,-21,-0.168518517,-0.274999976,-0.428571367,FALSE,TRUE,FALSE,0,0,TRUE,Daniel Evans,Arthur Rinderknech,Arthur Rinderknech,Arthur Rinderknech
+54,87,33,-1.7,1,0,3,0.499999983,0.27380953,0.777777691,TRUE,FALSE,FALSE,1,1,TRUE,Alejandro Tabilo,Juan Pablo Varillas,Alejandro Tabilo,Alejandro Tabilo
+122,33,-89,-7.3,0,0,-5,0.038461546,-0.333333306,0.333333222,TRUE,FALSE,FALSE,1,0,FALSE,Arthur Cazaux,Laslo Djere,Laslo Djere,Arthur Cazaux
+20,8,-12,-4.9,1,0,-3,0.049019609,-0.361111103,0.085714308,TRUE,FALSE,FALSE,1,1,TRUE,Jack Draper,Hubert Hurkacz,Jack Draper,Jack Draper
+70,45,-25,-5.2,0,0,-13,0.06666668,0.49999995,0.191919183,FALSE,FALSE,TRUE,1,1,TRUE,Brandon Nakashima,Christopher Eubanks,Brandon Nakashima,Brandon Nakashima
+64,40,-24,-10.6,0,0,-8,0.077445655,-0.349999989,-0.33333337,TRUE,FALSE,FALSE,0,0,TRUE,Alexander Shevchenko,Jan Lennard Struff,Jan Lennard Struff,Jan Lennard Struff
+116,32,-84,0.6,0,0,10,-0.499999984,-0.374999953,0,FALSE,TRUE,FALSE,0,0,TRUE,Valentin Vacherot,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina
+43,137,94,5.7,0,1,8,0.299999997,-0.499999875,0.444444395,FALSE,TRUE,FALSE,0,0,TRUE,Christopher Eubanks,Terence Atmane,Terence Atmane,Terence Atmane
+209,9,-200,-10,0,0,-13,-0.739130419,-0.666666611,-0.666666556,TRUE,FALSE,FALSE,0,0,TRUE,Kyrian Jacquet,Grigor Dimitrov,Grigor Dimitrov,Grigor Dimitrov
+162,133,-29,-2.1,0,0,0,-0.19999996,0.050000009,0,FALSE,TRUE,FALSE,1,0,FALSE,Juan Pablo Varillas,Dominic Thiem,Dominic Thiem,Juan Pablo Varillas
+134,32,-102,10.9,0,0,-5,0.018604641,-0.466666562,0,TRUE,FALSE,FALSE,0,0,TRUE,David Goffin,Jiri Lehecka,Jiri Lehecka,Jiri Lehecka
+87,1,-86,7.2,0,0,-8,-0.447368419,-0.78571423,-0.89999991,TRUE,FALSE,FALSE,0,0,TRUE,Christopher Oconnell,Jannik Sinner,Jannik Sinner,Jannik Sinner
+33,298,265,5.5,0,0,0,0.130434894,0.374999953,0.57142849,FALSE,TRUE,FALSE,1,1,TRUE,Jordan Thompson,Yibing Wu,Jordan Thompson,Jordan Thompson
+7,1,-6,-11.6,0,0,-5,-0.159090885,-0.008223667,-0.357142985,FALSE,TRUE,FALSE,1,1,TRUE,Casper Ruud,Novak Djokovic,Casper Ruud,Casper Ruud
+27,66,39,-1.4,0,0,2,-0.104895104,1.00E-08,0.466666724,TRUE,FALSE,FALSE,0,0,TRUE,Lorenzo Musetti,Tomas Machac,Tomas Machac,Tomas Machac
+146,18,-128,-4.9,0,1,-13,-0.674418589,-0.416666632,-0.555555494,TRUE,FALSE,FALSE,0,0,TRUE,Shintaro Mochizuki,Ugo Humbert,Ugo Humbert,Ugo Humbert
+83,560,477,2.2,0,0,-5,-0.388888776,0.363636331,0,TRUE,FALSE,FALSE,0,0,TRUE,Sumit Nagal,Yibing Wu,Yibing Wu,Yibing Wu
+22,197,175,-5.7,0,0,23,0.416666649,-0.071428518,0,FALSE,TRUE,FALSE,0,1,FALSE,Nicolas Jarry,Marco Trungelliti,Nicolas Jarry,Marco Trungelliti
+64,95,31,3.7,0,0,13,0.407407401,0.39999996,-0.071428508,TRUE,FALSE,FALSE,1,1,TRUE,Arthur Rinderknech,Adam Walton,Arthur Rinderknech,Arthur Rinderknech
+14,24,10,1.2,0,0,3,0.086256471,0.14705881,-0.066666713,TRUE,FALSE,FALSE,0,1,FALSE,Holger Rune,Arthur Fils,Holger Rune,Arthur Fils
+53,103,50,-5.7,1,0,0,0.166666672,0.083333354,0.30000017,TRUE,FALSE,FALSE,0,1,FALSE,Jack Draper,Thanasi Kokkinakis,Jack Draper,Thanasi Kokkinakis
+101,72,-29,-7.1,0,0,3,0.111111099,-0.421052609,0.499999875,FALSE,FALSE,TRUE,1,1,TRUE,Adam Walton,Federico Coria,Adam Walton,Adam Walton
+101,15,-86,-2.3,0,0,-15,-0.332980972,-0.499999972,0.249999938,TRUE,FALSE,FALSE,0,0,TRUE,Aleksandar Kovacevic,Karen Khachanov,Karen Khachanov,Karen Khachanov
+2,51,49,1.8,0,1,3,0.231152198,0.559523833,0.28888891,TRUE,FALSE,FALSE,1,1,TRUE,Carlos Alcaraz,Juncheng Shang,Carlos Alcaraz,Carlos Alcaraz
+5,46,41,-1,0,0,-5,0.248140636,0.084558821,-0.499999938,TRUE,FALSE,FALSE,1,1,TRUE,Andrey Rublev,Zhizhen Zhang,Andrey Rublev,Andrey Rublev
+14,55,41,4.6,0,1,-8,-0.00877193,0.297619031,0.033333344,TRUE,FALSE,FALSE,1,1,TRUE,Tommy Paul,Jack Draper,Tommy Paul,Tommy Paul
+50,111,61,5.2,0,1,10,0.129310394,0.229166743,0.499999938,TRUE,FALSE,FALSE,1,1,TRUE,Zhizhen Zhang,Giulio Zeppieri,Zhizhen Zhang,Zhizhen Zhang
+67,18,-49,11.1,0,1,3,-0.289803234,-0.416666632,-0.222222272,TRUE,FALSE,FALSE,0,0,TRUE,Andy Murray,Ugo Humbert,Ugo Humbert,Ugo Humbert
+56,43,-13,-9,1,0,-8,0.154150198,-0.295454549,-0.066666713,TRUE,FALSE,FALSE,0,1,FALSE,Denis Shapovalov,Jan Lennard Struff,Denis Shapovalov,Jan Lennard Struff
+96,120,24,-2.9,0,0,-18,-0.355555537,0,0.05555548,TRUE,FALSE,FALSE,0,0,TRUE,Adam Walton,Christopher Eubanks,Christopher Eubanks,Christopher Eubanks
+3,13,10,-6,0,0,-2,0.125889043,0.095238108,0.055555526,FALSE,TRUE,FALSE,1,1,TRUE,Carlos Alcaraz,Tommy Paul,Carlos Alcaraz,Carlos Alcaraz
+51,96,45,5.4,0,0,-3,0.357142861,0.050000032,0.692307639,FALSE,TRUE,FALSE,1,1,TRUE,Marcos Giron,J J Wolf,Marcos Giron,Marcos Giron
+27,80,53,-3.1,0,0,5,0.128205166,0.2875,0.249999938,FALSE,TRUE,FALSE,1,1,TRUE,Tomas Martin Etcheverry,Daniel Elahi Galan,Tomas Martin Etcheverry,Tomas Martin Etcheverry
+60,48,-12,-2.3,0,0,10,-0.016816814,-0.222222228,0.071428583,TRUE,FALSE,FALSE,0,0,TRUE,Alex Michelsen,Flavio Cobolli,Flavio Cobolli,Flavio Cobolli
+89,145,56,1.3,0,0,3,0.40909089,0.035714307,0.49999975,FALSE,FALSE,TRUE,1,1,TRUE,Borna Coric,Felipe Meligeni Alves,Borna Coric,Borna Coric
+56,18,-38,7.5,0,0,-5,-0.217759005,0.065217417,-0.499999917,TRUE,FALSE,FALSE,0,0,TRUE,Dusan Lajovic,Frances Tiafoe,Frances Tiafoe,Frances Tiafoe
+65,88,23,-6,0,0,10,0.259595961,0.166666657,7.50E-08,FALSE,TRUE,FALSE,1,1,TRUE,Alex Michelsen,Aleksandar Kovacevic,Alex Michelsen,Alex Michelsen
+1,69,68,-4,0,0,6,0.502923976,0.48571426,0.49999999,TRUE,FALSE,FALSE,1,1,TRUE,Jannik Sinner,Roman Safiullin,Jannik Sinner,Jannik Sinner
+2,40,38,-2.2,0,0,-2,0.238329234,0.280112037,0.555555568,TRUE,FALSE,FALSE,1,1,TRUE,Carlos Alcaraz,Matteo Arnaldi,Carlos Alcaraz,Carlos Alcaraz
+48,8,-40,2.4,0,0,-3,-0.212101064,-0.247058812,-0.266666658,TRUE,FALSE,FALSE,0,0,TRUE,Alexander Shevchenko,Holger Rune,Holger Rune,Holger Rune
+9,4,-5,-1.3,0,0,-13,1.06E-09,-0.015151529,-0.033333344,TRUE,FALSE,FALSE,0,0,TRUE,Alex De Minaur,Taylor Fritz,Taylor Fritz,Taylor Fritz
+109,34,-75,7.4,0,0,-2,-0.16602317,-1.07E-08,-0.166666843,FALSE,TRUE,FALSE,1,0,FALSE,Alexandre Muller,Arthur Fils,Arthur Fils,Alexandre Muller
+59,62,3,1.7,0,0,5,5.21E-09,0.208333314,-0.374999953,TRUE,FALSE,FALSE,0,1,FALSE,Alejandro Davidovich Fokina,Rinky Hijikata,Alejandro Davidovich Fokina,Rinky Hijikata
+60,74,14,10,0,0,-2,0.384615355,0.179487164,0.49999975,FALSE,TRUE,FALSE,1,1,TRUE,Stan Wawrinka,Pedro Cachin,Stan Wawrinka,Stan Wawrinka
+21,63,42,12.3,1,0,-3,-0.18433818,-0.59999996,-0.166666583,TRUE,FALSE,FALSE,1,0,FALSE,Adrian Mannarino,Tomas Machac,Tomas Machac,Adrian Mannarino
+68,86,18,-6.2,0,0,-3,0.028011207,-0.183333365,0.499999938,TRUE,FALSE,FALSE,0,0,TRUE,Max Purcell,Marton Fucsovics,Marton Fucsovics,Marton Fucsovics
+64,23,-41,-6.6,0,0,-18,0.177927929,0.055555552,0.428571367,FALSE,TRUE,FALSE,1,1,TRUE,Flavio Cobolli,Nicolas Jarry,Flavio Cobolli,Flavio Cobolli
+43,1,-42,-12.2,0,0,8,-0.093749983,-0.456140337,-0.357142818,TRUE,FALSE,FALSE,0,0,TRUE,Alexei Popyrin,Novak Djokovic,Novak Djokovic,Novak Djokovic
+112,49,-63,-2,0,0,5,0.115384395,0,0.166666528,TRUE,FALSE,FALSE,1,1,TRUE,Benoit Paire,Andy Murray,Benoit Paire,Benoit Paire
+32,1,-31,-12.2,0,0,8,-0.288461519,-0.189473663,-0.607142797,TRUE,FALSE,FALSE,0,0,TRUE,Tomas Martin Etcheverry,Novak Djokovic,Novak Djokovic,Novak Djokovic
+86,59,-27,9.3,0,0,-10,-0.12121214,0.180602012,-0.19999996,TRUE,FALSE,FALSE,0,0,TRUE,Dusan Lajovic,Fabian Marozsan,Fabian Marozsan,Fabian Marozsan
+1,9,8,-2.5,0,0,8,0.280701753,0.119047607,0.09999999,TRUE,FALSE,FALSE,1,1,TRUE,Jannik Sinner,Alex De Minaur,Jannik Sinner,Jannik Sinner
+41,18,-23,-5.4,0,0,-16,0.12878788,0.029411761,0.333333222,TRUE,FALSE,FALSE,0,1,FALSE,Matteo Arnaldi,Nicolas Jarry,Matteo Arnaldi,Nicolas Jarry
+139,271,132,6.5,0,0,10,-0.166666528,0,0.266666718,FALSE,FALSE,TRUE,1,1,TRUE,Billy Harris,Jacob Fearnley,Billy Harris,Billy Harris
+164,93,-71,-9.9,0,0,3,-0.352941156,-0.583333285,0,TRUE,FALSE,FALSE,0,0,TRUE,Raphael Collignon,Marton Fucsovics,Marton Fucsovics,Marton Fucsovics
+33,24,-9,1.8,0,1,13,0.142981685,0.333333296,0.547618973,FALSE,FALSE,TRUE,1,1,TRUE,Gael Monfils,Adrian Mannarino,Gael Monfils,Gael Monfils
+5,61,56,-10.5,0,0,-3,0.242835613,0.647058785,-0.333333222,TRUE,FALSE,FALSE,1,1,TRUE,Andrey Rublev,Andy Murray,Andrey Rublev,Andrey Rublev
+60,146,86,5.1,0,1,13,-0.083333309,0.363636331,0.666666611,TRUE,FALSE,FALSE,0,1,FALSE,Aleksandar Vukic,Mattia Bellucci,Aleksandar Vukic,Mattia Bellucci
+9,1,-8,2.5,0,0,-8,-0.280701753,-0.119047607,-0.09999999,TRUE,FALSE,FALSE,0,0,TRUE,Alex De Minaur,Jannik Sinner,Jannik Sinner,Jannik Sinner
+40,1,-39,5.1,0,0,-3,-0.422368418,-0.319047594,-0.32857142,TRUE,FALSE,FALSE,0,0,TRUE,Tallon Griekspoor,Jannik Sinner,Jannik Sinner,Jannik Sinner
+113,13,-100,1.9,0,0,3,-0.196356293,-0.380952358,-0.833333264,TRUE,FALSE,FALSE,0,0,TRUE,Laslo Djere,Tommy Paul,Tommy Paul,Tommy Paul
+39,176,137,-1.5,1,0,13,0.416666712,0.08333341,0.79999992,FALSE,TRUE,FALSE,0,1,FALSE,Jack Draper,Jesper De Jong,Jack Draper,Jesper De Jong
+54,9,-45,6.5,0,0,-5,-0.247058827,-0.202380973,-0.499999875,FALSE,TRUE,FALSE,0,0,TRUE,Marton Fucsovics,Stefanos Tsitsipas,Stefanos Tsitsipas,Stefanos Tsitsipas
+97,71,-26,-1.1,0,0,13,0.018518514,0.39999996,0.428571367,TRUE,FALSE,FALSE,0,1,FALSE,Arthur Rinderknech,Christopher Oconnell,Arthur Rinderknech,Christopher Oconnell
+513,4,-509,5.7,0,0,-10,-0.183288436,-0.793103421,-0.749999906,TRUE,FALSE,FALSE,0,0,TRUE,Pablo Carreno Busta,Alexander Zverev,Alexander Zverev,Alexander Zverev
+33,63,30,-1.6,0,0,5,0.295161287,-0.050000022,0.69999993,TRUE,FALSE,FALSE,1,1,TRUE,Sebastian Korda,Pavel Kotov,Sebastian Korda,Sebastian Korda
+81,4,-77,-3.4,1,0,-25,-0.354716994,-0.254641924,-0.749999906,FALSE,TRUE,FALSE,0,0,TRUE,Hugo Gaston,Alexander Zverev,Alexander Zverev,Alexander Zverev
+10,104,94,8.1,0,0,6,0.173913052,0.333333315,0.666666556,FALSE,TRUE,FALSE,1,1,TRUE,Grigor Dimitrov,Zizou Bergs,Grigor Dimitrov,Grigor Dimitrov
